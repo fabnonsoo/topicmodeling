@@ -1,0 +1,2222 @@
+id,message,label
+10873,list the current price of microsoft shares,qa_stock
+8491,where is the nearest smoke shop,recommendation_locations
+4549,please start over.,general_repeat
+5948,read my lists to me,lists_query
+1663,mute volume now,audio_volume_mute
+7001,start play fifa seventeen,play_game
+9835,in delhi traffic level too high,transport_traffic
+2465,i need the time zone from london england instead of central time zone,datetime_convert
+687,resume the last kingdom for me,play_audiobook
+5919,what are my available lists,lists_query
+1551,please reduce the speaker volume,audio_volume_down
+4821,start vacuum cleaner,iot_cleaning
+3475,olly would you shut off.,general_commandstop
+5702,add grocery shopping to my to do list,lists_createoradd
+8052,answer this mathematical question,qa_maths
+10893,search events and meetups for central park west,recommendation_events
+4777,clean my house,iot_cleaning
+7250,play the next recording,play_podcasts
+7905,how old is cher,qa_factoid
+10041,i need to set an alarm how many do i have set,alarm_query
+9119,prepare the order as soon as possible,takeaway_query
+1240,take off my alarms,alarm_remove
+1078,see see for me the alarms that you have set tomorrow morning,alarm_query
+6117,i want you to delete my shopping list from last month,lists_remove
+4673,let's try what you said one more time again please.,general_repeat
+10840,what is the birthday of hemingway,qa_factoid
+2169,hey turn on your reminders for tomorrow's meeting at ten am,calendar_set
+2274,whats needed to make pizza,cooking_recipe
+5166,switch light to lowest level in dining area,iot_hue_lightdim
+7271,jump to next podcast,play_podcasts
+994,when i should leave to office,transport_query
+720,play my rap playlist,play_music
+1111,show me the list of alarms,alarm_query
+7671,give me the definition of school,qa_definition
+10111,increase the volume to max please,audio_volume_up
+3885,"s1, will you please further explain me about what you said.",general_explain
+9134,whats up with my takeaway,takeaway_query
+9395,what is the timing of bagmati express,transport_query
+3635,i'd like you check and confirm that please.,general_confirm
+7480,what is the exchange rate for pounds and u. s. d.,qa_currency
+4723,my vacuum cleaner should start between ten to eleven am everyday,iot_cleaning
+4225,i think this is not correct command.,general_negate
+5131,color change of lights,iot_hue_lightchange
+9814,what is the traffic like this morning,transport_traffic
+2967,is this the correct area code for my boss,email_querycontact
+5309,control lights turn off room lights,iot_hue_lightoff
+2073,remove my event at one pm in my calendar,calendar_remove
+4316,ah that's awesome work.,general_praise
+1746,increase volume by two levels,audio_volume_up
+7561,if i have a dablune how many dollars is that,qa_currency
+10274,send email to daddy i'll be going to the birthday party,email_sendemail
+489,dim the lights at the living room,iot_hue_lightdim
+2072,find dinner with mom on my calendar and delete it,calendar_remove
+6294,that song is my favorite,music_likeness
+845,list me the stock of apple right now,qa_stock
+3910,can you elaborate further on this to me please.,general_explain
+7059,open songs by prince,play_music
+8746,send a tweet,social_post
+11025,i need a train ticket to denver,transport_query
+9918,get today's weather report,weather_query
+578,tell me my lists,lists_query
+2202,remind me of meeting five minutes before time,calendar_set
+6011,could you open my list app and check for groceries please,lists_query
+2688,add email to contacts,email_addcontact
+1048,how much traffic does atlanta georgia usually have,transport_traffic
+7683,explain photosynthesis,qa_definition
+10200,can i get the time,datetime_query
+4782,start house cleaning,iot_cleaning
+5388,all lights has to be turned off during the day,iot_hue_lightoff
+9329,can you see if there any trains going to,transport_query
+4898,start up the coffee machine,iot_coffee
+10671,please tell me the name of this band,music_query
+3788,"anything would be good with me, olly.",general_dontcare
+1975,cancel my event on june nineteenth,calendar_remove
+10708,resume play where i left off in book on audible,play_audiobook
+1425,set an alarm for five hundred and thirty,alarm_set
+4589,please tell me it one more again.,general_repeat
+11000,could you please confirm if paradise does takeaway,takeaway_query
+2430,i need you to convert nine am cst to est time,datetime_convert
+932,did anyone get engaged or give birth among my online friends,social_query
+411,can you please tell me who are you,general_quirky
+3624,would you please check and confirm it.,general_confirm
+6107,remove the sms recipient which have initials s,lists_remove
+5885,can you read me my lists,lists_query
+1426,put alarm at five am,alarm_set
+8784,tweet a complaint to old navy website,social_post
+10448,i need to hear again.,general_repeat
+3344,yeap it was correct.,general_affirm
+7519,exchange rate between dollar and mexican peso,qa_currency
+10304,"that is all, just cancel.",general_commandstop
+14,can you tell me what alarms i have set,alarm_query
+6024,all food items with the prefix dry should be taken away from the list,lists_remove
+3320,wonderful response to command.,general_affirm
+1724,up the volume the sound is too low,audio_volume_up
+7137,open my amazon music app and play my playlist,play_music
+9540,can you call a taxi,transport_taxi
+3077,send mom an email now,email_sendemail
+7833,how is iron made,qa_factoid
+10003,should i take my raincoat with me now,weather_query
+5561,turn off bedroom fan,iot_wemo_off
+187,add dan's email,email_addcontact
+10505,make the bedroom lights red and the hall lights normal color please,iot_hue_lightchange
+3336,you understood command perfectly.,general_affirm
+9302,tell me today's direction,transport_query
+8104,amazon stock price,qa_stock
+3925,"s2, i didn't catch up with you.",general_explain
+2799,are there any new emails from robert jones,email_query
+10397,i am sorry but you have messed up with my request.,general_negate
+5141,switch to night light setting,iot_hue_lightchange
+6520,shuffle the songs in the music library,music_settings
+2494,could you please tell me what time is in singapore,datetime_query
+3692,i do not really mind for anything.,general_dontcare
+6165,delete butterfly clips from my wish list,lists_remove
+9140,does the nearby pizza hut deliver in my area,takeaway_query
+2096,delete my appointment tomorrow,calendar_remove
+6506,shazam this music,music_settings
+3748,"don't bother, olly.",general_dontcare
+7342,i need you to find a good channels to listen to,play_radio
+2837,jane doe,email_query
+8971,order two hamburgers for me,takeaway_order
+3282,exact.,general_affirm
+4956,set the coffee maker to on,iot_coffee
+9177,is fongs dine in only,takeaway_query
+6394,what song is playing on windows media player,music_query
+1436,alarm five pm tuesday,alarm_set
+9795,what does the traffic look like headed to la,transport_traffic
+2246,take note of today as my first date with bob,calendar_set
+9113,when is my takeaway going to get here,takeaway_query
+138,activate a one week notification before my anniversary please,calendar_set
+3097,mahaboobsayyad@gmail dot com,email_sendemail
+3725,that is of no importance for me.,general_dontcare
+7598,convert one dollars to rupees,qa_currency
+3782,"have no idea for which to select, olly.",general_dontcare
+8819,what time is bina going live with her sale on facebook,social_query
+9774,latest news on traffic at my current location,transport_traffic
+3828,it was not clear.,general_explain
+5678,enable smart socket,iot_wemo_on
+1109,what alarms do i have set,alarm_query
+4840,please make me a coffee using the coffee machine,iot_coffee
+2196,add valia's wedding the next saturday at eight o clock,calendar_set
+10107,turn volume up to highest level,audio_volume_up
+4248,"that was helpful,.",general_praise
+5149,make my lights green,iot_hue_lightchange
+6366,identify song,music_query
+10581,wemo plug socket on,iot_wemo_on
+625,the song you are playing is amazing,music_likeness
+3886,could you clarify further on what you said now to me please.,general_explain
+8191,what apple trading at,qa_stock
+9381,what is the estimated travel time for the train ride to orlando,transport_query
+6274,save my opinion on the currently playing song,music_likeness
+8721,open twitter type my complaint and post to @consumer service,social_post
+5215,is it ok to lower the lights,iot_hue_lightdim
+7341,play radio,play_radio
+7162,play the song get happy by ella fitzgeral,play_music
+1314,cancel alarm for tenth of march two thousand seventeen,alarm_remove
+7045,play my most played songs,play_music
+293,please will you check it.,general_confirm
+402,anything i need to know,general_quirky
+3342,yes right.,general_affirm
+7720,look up word,qa_definition
+10558,brighten the light of hall,iot_hue_lightup
+4334,"good work, you have done well, olly.",general_praise
+60,mute speaker,audio_volume_mute
+6264,save that song and my opinion,music_likeness
+6392,what is the current song called,music_query
+2981,please check and tell me contact details of mongomery llc company,email_querycontact
+1404,add a five am alarm in place of my nine pm alarm,alarm_set
+10633,delete the list brads appointments,lists_remove
+4546,say the last one said again please.,general_repeat
+8826,tell me my friends most recent update,social_query
+7242,please play next episode of bbc history podcast,play_podcasts
+3153,hey email jan about our meeting,email_sendemail
+10895,find events in local area,recommendation_events
+5210,adjust the lights to a lower setting please,iot_hue_lightdim
+5726,please update list with new item,lists_createoradd
+4678,could you tell me it once again.,general_repeat
+2724,have i gotten any emails from mom lately,email_query
+3613,i like you confirm last thing said please.,general_confirm
+6258,i find rap music really enjoyable,music_likeness
+10934,what movies are playing in columbia,recommendation_movies
+10184,how do i make tuna casserole from scratch,cooking_recipe
+1785,increase volume by one,audio_volume_up
+3315,you've gotten my instructions exactly.,general_affirm
+9341,show me today train time of kalka at jodhpur,transport_query
+6633,google search the topic,news_query
+7195,can you play the next podcast,play_podcasts
+4972,let me get a cup of coffee please,iot_coffee
+6943,video games,play_game
+2862,show all emails regarding the breach,email_query
+8079,how expensive is google stock,qa_stock
+9262,directions to sainsburys,transport_query
+4930,make some coffee,iot_coffee
+5419,turn the lights on,iot_hue_lighton
+10706,play sam harris audiobook,play_audiobook
+2870,do i have any new emails in my inbox today,email_query
+5976,what's on my todo list,lists_query
+7537,is the pound up or down against the dollar,qa_currency
+4810,enable cleaner robot,iot_cleaning
+7426,channel seventy two point five,play_radio
+7139,play my favorite music,play_music
+797,please tell me the definition of home,qa_definition
+8485,i need a good shop,recommendation_locations
+8222,what is the price of amd on the stock market,qa_stock
+34,set a timer at five am seven days a week,alarm_set
+4758,begin vacuuming,iot_cleaning
+7967,divide seventy six in two parts,qa_maths
+10920,where can i go shopping here,recommendation_locations
+8664,tweet bad day at starbucks,social_post
+2514,how time is it,datetime_query
+7778,describe the empire state building,qa_definition
+5117,lights at percent,iot_hue_lightchange
+7514,how much is a g. b. p. in u. s. d.,qa_currency
+7731,please describe a car,qa_definition
+9607,can you book me a train ticket to bombay for tomorrow in any train,transport_ticket
+8566,can you tell me what movie has the best reviews,recommendation_movies
+5155,dim the lights in the kitchen,iot_hue_lightdim
+8229,whats the current price of mcdonalds stock,qa_stock
+10071,set an alarm for one pm,alarm_set
+3469,can you just cancel please.,general_commandstop
+6844,play the jungle book,play_audiobook
+9351,check time of kalka train from jodhpur station on monday,transport_query
+4450,i would like to crack jokes,general_quirky
+7221,play the most current episode of levin,play_podcasts
+6160,delete this from list,lists_remove
+10171,crockpot recipe for chicken alfredo,cooking_recipe
+8247,what baseball games are scheduled for this week in tulsa,recommendation_events
+2754,please check if i got any emails from mom,email_query
+5057,switch to red colored lights,iot_hue_lightchange
+8923,whats online,social_query
+7118,hi google play me playlist wacky in my gaana application,play_music
+6865,can you play monopoly with me,play_game
+704,can we play a game of hangman,play_game
+452,please make coffee at seven am,iot_coffee
+6090,clear the list,lists_remove
+10930,can you tell me what movies are playing at the movies tonight,recommendation_movies
+1920,what's going on between three hundred and thirty and four,calendar_query
+7472,play the radio for me,play_radio
+9825,what is the traffic situation at the bazaar highway,transport_traffic
+2506,what time is it in central time zone,datetime_query
+4019,do you have a funny joke for me,general_joke
+4436,i would like to solve maths issues,general_quirky
+8022,what's thirteen plus fourteen,qa_maths
+2141,remind me if i miss my evening walk routine,calendar_set
+6778,start audiobook again,play_audiobook
+4488,tell me your answer,general_quirky
+9689,buy train tickets from delhi to mumbai for twenty third march,transport_ticket
+1062,is summer going on,weather_query
+10753,play something random from google play,play_music
+7058,queue up ymca,play_music
+4661,will you replay what you have said please.,general_repeat
+5061,please change color of light to pinkish,iot_hue_lightchange
+10826,describe what a sphere is,qa_definition
+7813,where is the hottest desert located,qa_factoid
+4293,you've done that right thank you very much.,general_praise
+4489,are you human,general_quirky
+4624,please will you try again.,general_repeat
+413,have you come across any new recipes,general_quirky
+4298,"i appreciate it, that's great job.",general_praise
+1963,please clear jeff's birthday from the calendar,calendar_remove
+7762,can you define this word,qa_definition
+10918,i want to know what supermarket near me has the best price on gluten free bread,recommendation_locations
+2128,set a reminder for john's birthday next week,calendar_set
+4827,power up the vacuum,iot_cleaning
+7951,what is the linear equation,qa_maths
+4183,seems like the response was not correct.,general_negate
+9427,i need a ride home,transport_taxi
+4577,please would you reset.,general_repeat
+1107,do i have any alarms set for tomorrow,alarm_query
+789,what's the definition of diverse,qa_definition
+3506,please check last thing i said.,general_confirm
+10907,where is a petrol station in five mile radius,recommendation_locations
+10880,please tell me what is the stock price of dew in ny market,qa_stock
+6220,i like this song that is playing,music_likeness
+6976,can you find animal crossing,play_game
+130,repeat reminder for my schedule for christmas,calendar_set
+6649,entertainment news,news_query
+6055,delete shopping list,lists_remove
+4813,switch on the roomba,iot_cleaning
+8153,what is apple's current stock price,qa_stock
+9820,please give me the road forecast for i95 sb,transport_traffic
+2518,time and date of today,datetime_query
+6132,i need you to remove item s from my list,lists_remove
+5512,increase light intensity,iot_hue_lightup
+1576,please mute the volume control,audio_volume_mute
+7431,ally please play pandora radio,play_radio
+1144,today how many alarms do i have set,alarm_query
+2621,show me the current time,datetime_query
+6426,do i have any music by lady antebellum,music_query
+425,would you tell me once again.,general_repeat
+10049,i need to delete the alarm for church on sundays at eleven am,alarm_remove
+3924,"s1, explain more on your response.",general_explain
+8948,show me chinese food near me,takeaway_order
+6796,play audiobook of jacob,play_audiobook
+3780,that doesn't really matter.,general_dontcare
+9839,is traffic heavy on route eighty today,transport_traffic
+5822,add car service to my list of things to do today,lists_createoradd
+3560,confirm the last thing said please.,general_confirm
+8958,how about some pizza tonight can you please order a pepperoni large,takeaway_order
+1068,what is the temperature today,weather_query
+9348,fix the driving route from here to grant market,transport_query
+239,send email to new email address,email_sendemail
+6078,can you remove remove buying eggs item from my to do list,lists_remove
+3593,could you please check and confirm the detail.,general_confirm
+7202,podcast next episode,play_podcasts
+2187,add meet with dave at subway on weber on four april at five pm,calendar_set
+6000,what lists available,lists_query
+4799,on the button of cleaner,iot_cleaning
+6634,can the latest news be pulled up on the latest weather forecast for the week,news_query
+984,please let me know the time of train northern rail,transport_query
+4467,has it been a busy day,general_quirky
+422,retry please.,general_repeat
+8314,list events in ny,recommendation_events
+9990,is it going to rain on monday,weather_query
+6783,list me the audiobooks i have already listened to,play_audiobook
+4901,i want coffee from the machine,iot_coffee
+9917,what is the current weather conditions in chicago illinois,weather_query
+8638,send a tweet to tmobile for rude employees,social_post
+6512,please go to settings of the music player and make the equalizer in the flat sound mode,music_settings
+9848,any traffic issues today,transport_traffic
+9415,call a taxi for me,transport_taxi
+2784,did dan send me any emails,email_query
+8496,where is the closest bar,recommendation_locations
+8808,check my social networks,social_query
+6674,did the yankees win last night,news_query
+8974,place a takeaway order for a cheeseburger and fries from burger king,takeaway_order
+1669,please do not respond,audio_volume_mute
+4712,turn on vacuum,iot_cleaning
+1301,stop seven am alarm,alarm_remove
+6714,resume pride and prejudice,play_audiobook
+5623,will you please turn off the smart plug,iot_wemo_off
+1402,alarm set,alarm_set
+6689,please share up to the minute details on sprint,news_query
+2039,clear off the vet appointment tomorrow,calendar_remove
+4583,can you reset.,general_repeat
+3145,start email,email_sendemail
+9672,book a train ticket from here to charleston west virginia at eight am today,transport_ticket
+950,hey order a pizza pie with extra cheese,takeaway_order
+6332,what artist is singing that song,music_query
+7253,play stuff you should know,play_podcasts
+5460,increase the brightness of lights bedroom,iot_hue_lightup
+6150,delete my to do list,lists_remove
+10280,open a reply message,email_sendemail
+1680,stop the audio,audio_volume_mute
+8890,has anyone commented on my status,social_query
+2749,update my inbox please,email_query
+7052,play me some melody song,play_music
+4268,"you are awesome, i appreciate it.",general_praise
+5909,read the list,lists_query
+6334,what's on the radio right now,music_query
+5853,please create a list of due payment those who not received more then ten months,lists_createoradd
+1833,what is on the agenda for the four pm meeting with joe,calendar_query
+5247,attenuate the lights,iot_hue_lightdim
+8357,what is happening near me,recommendation_events
+1868,when the meeting start,calendar_query
+10398,"nope, i didn't say this.",general_negate
+4825,vacuum on,iot_cleaning
+305,would you please confirm the instruction.,general_confirm
+10186,what should i make for dinner,cooking_recipe
+4684,please could you tell me that comment said once again.,general_repeat
+395,"it's great one, thank you very much.",general_praise
+6622,access latest news,news_query
+7501,what is the exchange rate of euro today to dirham,qa_currency
+8167,google stock symbol,qa_stock
+5351,turn off the light,iot_hue_lightoff
+640,list of playback of ar rahman collections,music_query
+3518,would you please confirm that.,general_confirm
+481,change lights to blue,iot_hue_lightchange
+2603,what is today's day,datetime_query
+7642,tell me what the word organism means,qa_definition
+9817,tell me the traffic condition from here to home,transport_traffic
+8548,show me theatre where pirates of caribbean is playing,recommendation_movies
+5365,please turn off kitchen light for me,iot_hue_lightoff
+5656,turn on the socket,iot_wemo_on
+1742,speak louder please,audio_volume_up
+4089,sorry but that is not the right answer.,general_negate
+182,could you tell me what time it is,datetime_query
+8418,find me the oldest hotel in washington dc,recommendation_locations
+6052,get rid of the wednesday list,lists_remove
+3180,i need to add a new email to my contacts,email_sendemail
+1983,delete appointment at time,calendar_remove
+10916,find me the cheapest place to buy a new backpack,recommendation_locations
+8587,movies with good rotten tomato ratings,recommendation_movies
+7908,is the largest ocean in the world the pacific,qa_factoid
+1231,what's my next alarm,alarm_query
+998,train leaving,transport_query
+6133,remove a list of accessories purchase last week,lists_remove
+1502,down the volume,audio_volume_down
+4717,turn on the vacuum cleaner while i am gone,iot_cleaning
+4126,this is not the correct answer.,general_negate
+10026,am i gonna need rain boots,weather_query
+10042,let me know the alarm time,alarm_query
+226,is this my sisters cellphone number,email_querycontact
+5554,brighten light,iot_hue_lightup
+2463,time difference between uk and us,datetime_convert
+4001,open some cools jokes,general_joke
+11065,book my train ticket from las vegas to los angeles,transport_ticket
+7727,what is rock sand,qa_definition
+10215,new york time,datetime_query
+3492,olly that is all.,general_commandstop
+641,what music is this,music_query
+1673,can you please be muted for a while,audio_volume_mute
+10286,excellent response to the command.,general_affirm
+635,i want to know what song has the phrase stairway to heaven in it,music_query
+7495,u. s. d. to yen,qa_currency
+4447,show me what i can do with fitness,general_quirky
+5582,shut off the socket,iot_wemo_off
+11040,book me a taxi to the mall of america please,transport_taxi
+7282,play the podcast named ringcast,play_podcasts
+245,go to email and send message to,email_sendemail
+2734,read new messages from my wife,email_query
+3858,"s1, can you rephrase me more on the last sentence please.",general_explain
+990,get route for los angles from here,transport_query
+3747,"this is unimportant with me, olly.",general_dontcare
+4343,"that's useful, appreciated, olly.",general_praise
+7658,show meaning of clarion,qa_definition
+4688,let's try again please.,general_repeat
+1334,set new alarm on five am,alarm_set
+8571,what movie theatres are in stephenville,recommendation_movies
+9736,is traffic heavy,transport_traffic
+11041,what's the closest taxi to me,transport_taxi
+9186,does chinese deliver,takeaway_query
+8452,what are the best italian restaurants in los angeles,recommendation_locations
+3841,"s2, i can not catch up with you.",general_explain
+6489,turn on repeat,music_settings
+1935,show me my reminders,calendar_query
+10320,check the command.,general_confirm
+1958,cancel my meeting tomorrow,calendar_remove
+3476,olly that's all.,general_commandstop
+613,add song to running list,music_likeness
+1912,is mary's birthday party tonight,calendar_query
+10538,shut off the lights in the bedroom,iot_hue_lightoff
+5841,please add list of things to buy for party,lists_createoradd
+5756,add paper towels to the grocery list,lists_createoradd
+579,how many items are on my list,lists_query
+3891,i am not so clear about that.,general_explain
+463,can you get me a cup of coffee,iot_coffee
+7940,when's mark lanegan's next album out,qa_factoid
+10181,how many eggs should i put in my cake mixture,cooking_recipe
+10062,please set the alarm for seven,alarm_set
+4470,please tell me who is going to win the nba championship,general_quirky
+9462,book ola for airport today evening,transport_taxi
+6323,tell me what is song is playing now,music_query
+6088,please remove a list,lists_remove
+11080,how long will it take to drive to long beach,transport_traffic
+4327,you've done it right thanks.,general_praise
+5412,please turn the lights on,iot_hue_lighton
+1238,kickball is over i do not need the alarm for kickball on wednesday evening any longer,alarm_remove
+1969,remove the fundraiser for dolphines in april,calendar_remove
+9220,does this restaurant deliver,takeaway_query
+9237,where is my pizza from domino's at,takeaway_query
+6960,let's play you'll be the keeper and never change position,play_game
+1114,what are the next three alarms set to go off,alarm_query
+8138,have bing's stocks dropped,qa_stock
+10129,when will the match start,calendar_query
+2032,change the plan of meeting,calendar_remove
+5277,cut off the bathroom lights,iot_hue_lightoff
+5583,turn off the wemo plug,iot_wemo_off
+3567,can you please check my last question.,general_confirm
+520,please turn on all lights,iot_hue_lighton
+6510,turn shuffle on music player on,music_settings
+3467,please would you shut up.,general_commandstop
+5273,please turn lights off,iot_hue_lightoff
+10221,add lowes hardware to my contact emails located in cleveland ohio,email_addcontact
+667,what's the latest news from xinhua,news_query
+9013,when i get home can you please order a pizza,takeaway_order
+9238,can i pick up my large order at pizza hut,takeaway_query
+3938,"s1, please explain further on your words to me.",general_explain
+10077,repeat alarm,alarm_set
+9743,how is the traffic in florida,transport_traffic
+8970,i am in need of some pizza what's the closest place that delivers,takeaway_order
+1164,let me know about any alarms set today,alarm_query
+3181,send an email to my mum that i will visit her next weekend,email_sendemail
+4745,initialize the robot vacuum,iot_cleaning
+7734,give me the specs on the bugatti veyron,qa_definition
+666,find new trump articles but not from fox news,news_query
+8289,can you tell me what kind of show can i go tonight in miami,recommendation_events
+9653,i need to leave on the five pm train to rockville,transport_ticket
+7295,play newest reason podcast,play_podcasts
+3579,will you please check and confirm the last thing i said.,general_confirm
+7960,what is five minus one,qa_maths
+1602,help me to mute my speaker,audio_volume_mute
+3609,confirm detail please.,general_confirm
+5562,turn off my wifi,iot_wemo_off
+8893,please give me the latest feed updates,social_query
+2080,i will no longer be joining mom for lunch tomorrow,calendar_remove
+4674,i need to hear that sentence again.,general_repeat
+2307,how many cups of sugar in texas sheet cake frosting,cooking_recipe
+9596,book me a train ride,transport_ticket
+4071,tell a joke that puts smile on my face,general_joke
+8738,send tweet via message to cardinal cafe and tell them their customer service is outstanding,social_post
+2112,set rotating event,calendar_set
+9248,is mr pizza on skip the dishes,takeaway_query
+3360,i'd like you just stop.,general_commandstop
+9865,how was the traffic now,transport_traffic
+8353,show me events in sacramento,recommendation_events
+4171,you had me incorrectly.,general_negate
+4878,make my coffee,iot_coffee
+5780,i need to put together a todo list for work,lists_createoradd
+6560,what does the analysts say about the new immigration policies,news_query
+8340,any local activities you can recommend in my area,recommendation_events
+10336,could you please check what said.,general_confirm
+9788,traffic congestion issues,transport_traffic
+2163,calendar event send invite bill malinda,calendar_set
+9496,book an uber from my location to the theatre,transport_taxi
+1717,louder volume please,audio_volume_up
+7949,when was justin bieber born,qa_factoid
+290,would you confirm the question.,general_confirm
+8700,please tweet the following complaint,social_post
+3972,elaborate me further on your answer please.,general_explain
+10313,olly i want you cancel it.,general_commandstop
+4310,"excellent job, you have done well.",general_praise
+10669,who wrote this song,music_query
+10040,what alarms do i have scheduled for tomorrow,alarm_query
+7112,play country music,play_music
+2925,fetch me the phone number of alexander,email_querycontact
+10472,robot do the whole house now,iot_cleaning
+9145,call the restaurant to see if the delivery is on the way,takeaway_query
+9601,please purchase me a train ticket to atlanta,transport_ticket
+3817,wouldn't really care.,general_dontcare
+1116,is the alarm to the backdoor set and ready to go,alarm_query
+8648,have a moan at easyjet,social_post
+2216,put working out on my calendar for eight am every day this week,calendar_set
+3823,would you once again clarify me about your response please.,general_explain
+4290,"you are my hero, appreciated.",general_praise
+6412,what music do i usually listen to,music_query
+7351,i want to hear program one on lastfm,play_radio
+1547,lower the volume please,audio_volume_down
+10483,i want coffee everyday,iot_coffee
+2989,call mom,email_querycontact
+8665,post this on my facebook,social_post
+5873,what is my grocery list,lists_query
+9324,give me train times from station to location,transport_query
+8989,call domino's pizza,takeaway_order
+4048,tell me some joke,general_joke
+3695,"that is of no importance, olly.",general_dontcare
+2988,is bills cell phone number in my contacts,email_querycontact
+4110,thanks but i think you have messed up my request.,general_negate
+2047,please remove this event from my calendar,calendar_remove
+4993,please make the lights watching friendly,iot_hue_lightchange
+2424,please change time zone to india,datetime_convert
+1245,remove my work alarm,alarm_remove
+805,what does a grapefruit look like,qa_definition
+1730,please increase the volume to maximum,audio_volume_up
+8930,my facebook update in every three hour should be available,social_query
+6009,what lists are open,lists_query
+4190,thanks but it's not the correct command.,general_negate
+6509,play only particular singer songs,music_settings
+5760,add a movie name to the wish list,lists_createoradd
+10678,shuffle music by aaron carter,music_settings
+3170,send happy new year to john@gmail dot com,email_sendemail
+6583,what's happening on bbc news today,news_query
+2308,show me cooking websites,cooking_recipe
+8122,how much has hp stock gone up,qa_stock
+4202,i think it's not the correct answer.,general_negate
+1566,mute volume,audio_volume_mute
+9537,call a taxi to pick me up right now,transport_taxi
+4431,tell me everything about umf,general_quirky
+10910,what's the best clothes store here,recommendation_locations
+6963,let's play nine ball against me adapt with my skill level always let me win,play_game
+7621,please let me know the exchange rate between indian rupees and us,qa_currency
+6581,what is the news about terrorist attack in afghanistan,news_query
+1,alarm settings,alarm_query
+7215,start my favourite podcast,play_podcasts
+87,do i have any notifications from social media,calendar_query
+2423,switch to eastern time zone,datetime_convert
+8553,training day,recommendation_movies
+6114,clear this list,lists_remove
+9522,call me an uber for right now,transport_taxi
+89,tell me the meetings i have for the week,calendar_query
+1146,what is tomorrow's alarm time set to,alarm_query
+2477,what's the time difference between here and queensland,datetime_convert
+6799,base on my audiobook collection get me recommendation related audio book i should listen get and play me the resume,play_audiobook
+9609,look for train tickets to edinburgh tomorrow,transport_ticket
+8230,send me the stock market updates for today,qa_stock
+3148,reply email,email_sendemail
+8264,please search for events in my location,recommendation_events
+11048,ticket for new york,transport_ticket
+1645,be quiet,audio_volume_mute
+759,please play some songs for kids,play_radio
+5776,please add deodorant to my shopping list,lists_createoradd
+3944,what did you mean by saying it.,general_explain
+7306,play episode ten in the podcast,play_podcasts
+236,reply the email of charles with just thank you right now,email_sendemail
+213,check emails,email_query
+5300,i need you to turn off the light of my bed room,iot_hue_lightoff
+5844,add new item to list,lists_createoradd
+9833,is there traffic,transport_traffic
+10975,i want to order some pizza,takeaway_order
+354,do you know what a joke is,general_joke
+2860,would you go check my emails for me,email_query
+1646,mute yourself until five pm,audio_volume_mute
+5239,dim the lights in the bathroom,iot_hue_lightdim
+10905,which teams are playing this weekend,recommendation_events
+8245,what are all the event in area,recommendation_events
+184,august fifteenth is what day of the week,datetime_query
+1280,set off this alarm,alarm_remove
+689,i want to finish listening to the book one thousand nine hundred and eighty four from where i left off,play_audiobook
+5328,turn off the kitchen lights,iot_hue_lightoff
+5010,please change the color of my lights surprise me,iot_hue_lightchange
+3018,what is the email address for tessa,email_querycontact
+1860,what events are scheduled for me to do today,calendar_query
+11089,weather this week,weather_query
+2926,what is jimmy johns's corporate number,email_querycontact
+4630,could you speak it one more again please.,general_repeat
+5593,please turn off the wemo plug,iot_wemo_off
+3474,olly please just stop.,general_commandstop
+5648,turn on the wemo plug socket to plug in my dongle,iot_wemo_on
+10318,cancel.,general_commandstop
+5567,turn the plug off,iot_wemo_off
+2747,compile information on the data breach,email_query
+5229,turn the lights down to seven,iot_hue_lightdim
+2164,add dentist appointment for friday at five,calendar_set
+9881,weather forecast for this week,weather_query
+1959,hey olly make sure my calendar is completely clear tomorrow,calendar_remove
+1376,set an alarm for seven am,alarm_set
+2902,can i find out information about a contact,email_querycontact
+7955,what is ten divided by five,qa_maths
+6832,please open audible app and resume play,play_audiobook
+1795,do i have a meeting on saturday march twenty fifth,calendar_query
+2661,store my contacts,email_addcontact
+6859,play the latest games,play_game
+10381,i would like a joke,general_joke
+570,make a catalogue,lists_createoradd
+816,how old is emma watson newest boyfriend,qa_factoid
+4855,time mr coffee for six am,iot_coffee
+7806,birth date for movie star keanu reeves,qa_factoid
+3095,send this email to reply to the latest emails,email_sendemail
+2918,show me derek's contact information,email_querycontact
+7868,how old is christie brinkley,qa_factoid
+4153,sorry but it is incorrect.,general_negate
+1318,delete my eight pm alarm,alarm_remove
+9669,book a train ticket from washington dc to savannah georgia,transport_ticket
+1857,give me the reminders,calendar_query
+1433,set alarm on twenty fifth may at five pm,alarm_set
+496,i want the room to be less bright,iot_hue_lightdim
+1483,remind me at six thirty pm,alarm_set
+5259,please turn off all the lights outdoor,iot_hue_lightoff
+8440,markets near by,recommendation_locations
+3303,yeap you've done that right.,general_affirm
+2774,is there any new email,email_query
+5306,turn off the room lights,iot_hue_lightoff
+8606,what is the nearest theatre that plays the new vin diesel movie,recommendation_movies
+9533,set up a taxi for eleven am tomorrow,transport_taxi
+9661,book me a train for the next available train,transport_ticket
+1758,could you speak more softly,audio_volume_up
+9594,book a train ticket to city leeds,transport_ticket
+3818,"do not really mind for whatever, olly.",general_dontcare
+10947,send a tweet about sonys volume issues,social_post
+194,add work email address,email_addcontact
+10353,"this does not matter to me, olly.",general_dontcare
+3470,olly please could you shut up.,general_commandstop
+6770,start chapter seven of alma,play_audiobook
+10047,would like to know the alarm you sent,alarm_query
+3322,yeah you've understood my instructions perfectly.,general_affirm
+2241,please tell me to take my umbrella because it will be very hot today,calendar_set
+6374,who sang the song that is currently playing,music_query
+4067,what's the latest joke,general_joke
+6296,i enjoy listening to this song it really calms me down,music_likeness
+9627,please book a ticket form jaipur to mumbai on tuesday,transport_ticket
+11097,weather this week,weather_query
+3703,i have no idea for which to select.,general_dontcare
+1060,will the temperature be higher than forty tomorrow,weather_query
+10953,tweet for me the complaint about drainage work,social_post
+7934,how old is betty white,qa_factoid
+939,did anyone message me on facebook,social_query
+7429,can you find the the preacher joe show on gospel radio,play_radio
+4839,make us a brew,iot_coffee
+2549,what day is the fifteenth,datetime_query
+10364,could you please once again elaborate to me.,general_explain
+1836,my events,calendar_query
+4955,please make some coffee for me,iot_coffee
+8672,tweet kohls about the cleanliness of their store,social_post
+9578,please book train ticket to new york,transport_ticket
+1650,turn down the noise,audio_volume_mute
+7170,skip this podcast,play_podcasts
+2122,set a reminder for my shopping trip tomorrow at five pm,calendar_set
+8689,write a tweet to burger king expressing my disapproval,social_post
+7042,get sia's cheap thrills ready to play next,play_music
+10245,show johns office number,email_querycontact
+2590,is today march sixth,datetime_query
+3926,rephrase me about what you've said further please.,general_explain
+7205,i want to hear yesterday's podcast from my favorite channel,play_podcasts
+6590,get latest news report on kidnapping in ny,news_query
+45,set an alarm for this eight hundred pm this evening,alarm_set
+6551,what's happening today,news_query
+4598,please speak that one more again.,general_repeat
+1324,remove my alarm for tomorrow morning,alarm_remove
+2976,do i have any missed call from patrick,email_querycontact
+8504,where can i go shopping in this area,recommendation_locations
+7624,what is the us dollar and euro exchange rate,qa_currency
+6541,is there any new environmental news,news_query
+2104,i am no longer attending the wedding on the tenth so remove it from my calendar,calendar_remove
+7800,how many sides are on a pentagon,qa_factoid
+1241,cancel my seven am alarm,alarm_remove
+6020,please delete the last song that played from the playlist,lists_remove
+9924,what is the temperature,weather_query
+3022,give me charles telephone number,email_querycontact
+11038,i am in need of a taxi right now,transport_taxi
+3346,yes it was perfect.,general_affirm
+3269,yeah you did it exactly.,general_affirm
+5940,show me my lists,lists_query
+9284,how long does it take to get there,transport_query
+2418,how long do i need to cook a brisket for it to be medium,cooking_recipe
+1608,mute the sound,audio_volume_mute
+6654,what are the results of the election,news_query
+10319,would you shut up.,general_commandstop
+691,can you play my favorite audio book of tarzan,play_audiobook
+6593,what is new,news_query
+698,play tennis for me,play_game
+4949,how do i set the timer on my coffee machine,iot_coffee
+4049,show me a funny joke,general_joke
+4311,"that's nice one, thanks.",general_praise
+7638,what does a sea lion look like,qa_definition
+4811,make vacuum cleaner start,iot_cleaning
+6262,i love anything by elton john,music_likeness
+4307,"that's nice job, thank you so much.",general_praise
+3413,can you shut off please.,general_commandstop
+3731,"i have no idea, olly.",general_dontcare
+3179,send an email to adele,email_sendemail
+1955,erase next calendar event,calendar_remove
+8797,may i know what is trending in twitter,social_query
+11031,get me a ride to hospital,transport_taxi
+4040,hey do you know any jokes,general_joke
+8408,tell me where i can go shopping in this area,recommendation_locations
+6039,erase previous list,lists_remove
+8920,what's new on my facebook account,social_query
+7529,given me the exchange rates between u. s. d. and inr,qa_currency
+6749,hold,play_audiobook
+9125,how long until my takeaway,takeaway_query
+4315,"that's cool,, olly.",general_praise
+6346,who's current music's author,music_query
+5550,please increase the light of table lamp,iot_hue_lightup
+7405,play the radio station one hundred and one point nine,play_radio
+5441,it's awfully dark here,iot_hue_lighton
+7191,start podcast mlb daily,play_podcasts
+8018,what does two plus two equal,qa_maths
+9554,request an uber now,transport_taxi
+3328,yeap right response.,general_affirm
+6299,my all time favorite song is something like this from chainsmokers,music_likeness
+5917,read list for me please,lists_query
+7499,new exchange rate,qa_currency
+2649,what time i sit in china right now,datetime_query
+6168,delete the last line,lists_remove
+2234,set a notification for june fifth every year,calendar_set
+1642,cut off noise,audio_volume_mute
+5488,turn up the lights please,iot_hue_lightup
+4540,i had a long hard day,general_quirky
+176,tell me the time in this time zone,datetime_query
+6677,get news from bbc,news_query
+9009,checkout subway food centre near me and order tandoori roti,takeaway_order
+693,i want to play solitare with you,play_game
+7075,let's play workout playlist,play_music
+10686,open the local news app,news_query
+1664,don't respond for fifty seconds,audio_volume_mute
+2027,please delete my lunch date from the march twenty third schedule,calendar_remove
+8515,are there any good pizza places around here,recommendation_locations
+888,where can i got to grab some drinks in west chester,recommendation_locations
+8292,what's happening near me this week,recommendation_events
+5545,raise the light,iot_hue_lightup
+6668,please provide world hot news,news_query
+125,make a repeating reminder for my yoga practice every day at noon,calendar_set
+9783,traffic status please,transport_traffic
+2806,are there any new emails in outlook,email_query
+3243,you've done the command correcly.,general_affirm
+1040,is there any traffic,transport_traffic
+5568,turn off kettle socket,iot_wemo_off
+5446,can you adjust the lighting for me to be brighter,iot_hue_lightup
+9764,please check the traffic to the home,transport_traffic
+6700,resume the two towers,play_audiobook
+6456,what song in the theme song for frasier,music_query
+1841,do i have a sales meeting today,calendar_query
+9075,i want two burgers and one coke order it fast,takeaway_order
+4123,i am sorry but i think that's not correct.,general_negate
+8697,tweet complaint to consumer service,social_post
+8037,what's one plus one,qa_maths
+8533,what clothes store would you recommend here,recommendation_locations
+5192,please lower the lights a little bit,iot_hue_lightdim
+7440,play the breakfast club,play_radio
+5571,turn off plug,iot_wemo_off
+686,resume my audiobook where we paused last,play_audiobook
+9637,i want you to book a train ticket for me,transport_ticket
+9303,can you get me a train ticket to nyc,transport_query
+8182,what is today's close of goog,qa_stock
+6154,trash file one,lists_remove
+9746,how's the traffic,transport_traffic
+2403,tell me how to cook pasta,cooking_recipe
+7742,hey what is the definition of survey,qa_definition
+1885,please check my reminders,calendar_query
+2708,add a new email,email_addcontact
+6074,i have already given mark his gift today please remove him on my christmas gift list,lists_remove
+3215,you have understood my instructions exactly.,general_affirm
+11026,tell me if i should use the train or bus to get across town today,transport_query
+2833,have any emails come in since four hundred today,email_query
+9482,could you please book me a taxi going to location,transport_taxi
+10743,find and queue all songs of kate perry and play all without shuffling,play_music
+2505,what is the current time in chennai,datetime_query
+611,please rate this song five stars please,music_likeness
+10610,make sure bread is on my grocery list,lists_query
+3979,do you know any jokes,general_joke
+4493,what is the story of the movie titanic,general_quirky
+4065,tell a joke,general_joke
+4302,"you are the best, thank you so much, olly.",general_praise
+8223,stock,qa_stock
+10188,do you know how to cook risotto,cooking_recipe
+5522,brighten the lights please,iot_hue_lightup
+9636,buy train ticket,transport_ticket
+10192,what is the time at singapore when our time is five pm,datetime_convert
+366,that wasn't right.,general_negate
+8463,can you tell me a good place to eat,recommendation_locations
+5696,please turn on the smart socket,iot_wemo_on
+3348,olly please shut down.,general_commandstop
+9147,when will by order from taco bell be delivered,takeaway_query
+2203,remind me to meet with steve at one pm tomorrow,calendar_set
+1620,quiet on,audio_volume_mute
+1733,increase the volume,audio_volume_up
+17,may i know the about alarm you set,alarm_query
+10030,what alarms do i all have set,alarm_query
+7961,tell me if five hundred and forty is subtracted seven time by twenty eight,qa_maths
+8232,show me all the events happening in milan,recommendation_events
+10074,set a wake up call for ten am,alarm_set
+9254,reviews of the restaurants,takeaway_query
+5724,add a wrist watch to the shopping list,lists_createoradd
+5162,i want dimmer lights,iot_hue_lightdim
+178,tell me what time it is in dallas texas,datetime_query
+1895,what is scheduled on my calendar today,calendar_query
+5344,switch the lights to off,iot_hue_lightoff
+5013,turn lights to green,iot_hue_lightchange
+1129,please tell about the alarms,alarm_query
+3078,email tom,email_sendemail
+1395,set the alarm for nine am on weekends,alarm_set
+7540,what is the equivalent of one inr in zimbabwe dollars,qa_currency
+6820,keep playing war and peace,play_audiobook
+682,can you play file,play_audiobook
+486,switch lights to red tone,iot_hue_lightchange
+3481,olly could you shut off.,general_commandstop
+6007,list to do,lists_query
+10078,decrease the volume to ten percent,audio_volume_down
+8650,tweet complaint to american eagle customer service,social_post
+9478,call golden taxi to pick me up at seven pm today,transport_taxi
+4055,please tell me a joke that i'll think is funny,general_joke
+807,when does the super bowl officially start,qa_factoid
+6575,top news,news_query
+9288,where is the closest train depot,transport_query
+4983,make me happy juice,iot_coffee
+9914,will i need an umbrella tomorrow,weather_query
+7450,please turn on radio on seven am,play_radio
+7516,how much is the us dollar versus the pound,qa_currency
+10559,turn the lights up,iot_hue_lightup
+2769,what are my new contact emails,email_query
+8127,stock prices of rolls royce,qa_stock
+2555,i want exact time in washington right now,datetime_query
+9019,confirm the order and send me the confirmation,takeaway_order
+7324,play bbc radio one,play_radio
+7367,play football news from radio one,play_radio
+4936,order a latte from starbucks,iot_coffee
+1259,cancel my three pm alarm,alarm_remove
+6692,tell me updates,news_query
+1808,need information about events before shift ends,calendar_query
+6609,what is the latest news on sprint,news_query
+5252,nighttime mode,iot_hue_lightdim
+6449,tell me the name of the composer,music_query
+7641,do you know the definition of school,qa_definition
+5566,off mobile charger plug,iot_wemo_off
+5161,i want a lower light,iot_hue_lightdim
+9007,order a pizza with sausage from domino's,takeaway_order
+150,i need to know how to make stuffed peppers,cooking_recipe
+10323,would you check my last command.,general_confirm
+9592,book a train ticket to new york,transport_ticket
+8326,any specific event in washington,recommendation_events
+4682,i want to hear what said again.,general_repeat
+3397,"that's enough, stop.",general_commandstop
+4791,robot vacuum the living room now,iot_cleaning
+8950,checkout top restaurant near me and order shahi panner,takeaway_order
+207,do i have any emails from jessica,email_query
+5101,set brightness to fifty percent,iot_hue_lightchange
+1515,decrease speaker volume,audio_volume_down
+9566,i want a train ticket,transport_ticket
+10258,show john's contact information,email_querycontact
+7896,how big is russia,qa_factoid
+7601,exchange rates of inr and u. s. d.,qa_currency
+2908,could you get john's email address for me,email_querycontact
+9898,is it going to rain in the next few days in tucson,weather_query
+2626,what's the time in new york,datetime_query
+653,repeat same song for ten times,music_settings
+7188,find me a podcast on wrestling,play_podcasts
+10545,cut the lights off,iot_hue_lightoff
+1115,check if alarm is set for six am,alarm_query
+3201,yes you got command exactly.,general_affirm
+6826,i want to hear the book written by the mother of the shooter at columbine,play_audiobook
+10997,does pings have takeaway,takeaway_query
+3738,"any one would be okay, olly.",general_dontcare
+2460,what time can i call from pennsylvania and it will be business hours in australia,datetime_convert
+7539,what's the dollar's exchange rate with the euro,qa_currency
+4897,make me a cup of coffee with salted carmel flavored cream,iot_coffee
+5610,i want the wemo socket off,iot_wemo_off
+596,take bread out from the shopping list,lists_remove
+11027,how to go to multi specialty hospital,transport_query
+10197,can you tell how many hours of difference are between boston and los angeles,datetime_convert
+8179,check stock prices on this,qa_stock
+8155,show me share price of tata,qa_stock
+3416,"olly that is enough, cancel it.",general_commandstop
+4068,a priest walks into a bar,general_joke
+10401,it seems like the answer was not correct.,general_negate
+6909,i want to play a game,play_game
+7912,how old is kim kardashian,qa_factoid
+9874,should i wear a hat today,weather_query
+1094,list all set alarms,alarm_query
+6784,resume mind reading book,play_audiobook
+1038,how is traffic in city,transport_traffic
+3080,open a new email to contact,email_sendemail
+2568,what is the time in ajmer,datetime_query
+4517,why do starving people keep having kids,general_quirky
+5260,turn lights off in kitchen,iot_hue_lightoff
+9681,id like to get on the next train that will be departing indianapolis headed to chicago,transport_ticket
+6956,play chess with me please,play_game
+7492,how much is fifty us dollars with in china,qa_currency
+10268,pleas reply to the mail of allen,email_sendemail
+5501,turn up the lights in the living room,iot_hue_lightup
+4669,could you tell me again please.,general_repeat
+8574,what film should i watch,recommendation_movies
+2955,find me my dad's email address,email_querycontact
+10903,where is the food festival tonight,recommendation_events
+7973,can you help me find the answer to this question,qa_maths
+9457,can you call an uber for me,transport_taxi
+4305,"that's useful, thank you very much.",general_praise
+6562,please let me know about topic elections,news_query
+8023,what is four plus five,qa_maths
+7128,play the billboard top ten,play_music
+4097,i think you've done this all in wrong manner.,general_negate
+5375,kindly switch off the light in the drawing hall,iot_hue_lightoff
+9155,tell me when taco bell can deliver my dinner,takeaway_query
+9120,is my order ready for pick up now,takeaway_query
+1186,at what time is my alarm set,alarm_query
+1214,what alarms did i set today,alarm_query
+8392,what's the best chicken place near me,recommendation_locations
+371,thanks but i think you do not get me.,general_negate
+3662,would not care.,general_dontcare
+2790,did my mom send me an email,email_query
+3094,"send email to robert, what time is dinner",email_sendemail
+7033,play for me hip hop music,play_music
+3193,yes you've done your understanding correcly.,general_affirm
+4015,search for new jokes,general_joke
+8988,i want to order a takeaway from papa john's,takeaway_order
+5385,light off living room,iot_hue_lightoff
+6427,give me some bowie,music_query
+10520,make the lights less bright,iot_hue_lightdim
+218,how many contacts are there named john,email_querycontact
+6222,can save this music in my playlist,music_likeness
+7087,can you play rfi,play_music
+8984,i want to eat something will you order food for me,takeaway_order
+7024,start play,play_music
+10793,what are the new rock radio stations,play_radio
+3279,yeap you've understood the answer right.,general_affirm
+1721,increase the volume of the speaker,audio_volume_up
+5808,i want to start a new list of power tools on sale at true value,lists_createoradd
+4434,can you make dinner for me,general_quirky
+11070,give me a current traffic report,transport_traffic
+3552,did you get what i just said correctly?,general_confirm
+5575,turn off smart socket,iot_wemo_off
+9502,book uber for tonight at seven pm,transport_taxi
+9791,give me the update on traffic at new york,transport_traffic
+957,place order of one pizza,takeaway_order
+10596,generate fresh list,lists_createoradd
+7048,reshuffle and play music,play_music
+2814,please check all new email of income tax department,email_query
+6845,play this audiobook for me,play_audiobook
+608,get rid of mike stein from contacts list,lists_remove
+5824,open grocery list and add milk,lists_createoradd
+8858,how many people are following me on twitter now,social_query
+10973,i need to order some food from papa john's,takeaway_order
+5565,please turn off the smart socket,iot_wemo_off
+8081,what is the sensex and nifty points for today,qa_stock
+10063,repeat alarm,alarm_set
+5048,change my room lights so that i can get a good sleep,iot_hue_lightchange
+8270,info of the upcoming events,recommendation_events
+5902,what's in my list of tasks,lists_query
+2770,please archive my read messages,email_query
+2388,what is the cooking time for mashed potatoes,cooking_recipe
+10289,excellent.,general_affirm
+6937,lets play tic tac toe,play_game
+4118,please make sure your command was correct because it doesn't sound right.,general_negate
+7876,which are well reviewed movies by emma watson,qa_factoid
+10314,olly please could you shut down.,general_commandstop
+4748,let's suck out the dust,iot_cleaning
+7446,open pandora play rock station,play_radio
+5468,please increase the light,iot_hue_lightup
+978,what is the status of my order no,takeaway_query
+6570,have there been updates on abortion law,news_query
+707,play checkers with me,play_game
+8559,give me a movie for tonight,recommendation_movies
+4653,i would like to hear again.,general_repeat
+6343,what music do i prefer,music_query
+2894,what is my daughter's phone number,email_querycontact
+5399,bedroom light off,iot_hue_lightoff
+9696,book me a train ticket for this afternoon to chicago,transport_ticket
+8874,is there any new vegan news on facebook,social_query
+8267,are there any good social events happening in my area,recommendation_events
+9756,how is the traffic on harvard,transport_traffic
+7490,tell me the exchange rate for the yen,qa_currency
+2052,cancel all my appointments after three pm today and inform me the details,calendar_remove
+7757,object identifier,qa_definition
+9504,get me an uber,transport_taxi
+4162,you are leading me into wrong.,general_negate
+663,i want to know everything that breaks about the dam breaking in california,news_query
+3073,compose an email to parisa,email_sendemail
+2043,erase my whole calendar,calendar_remove
+1731,lower my music player volume by fifty percent of its current level,audio_volume_up
+5089,hi olly change the color of lights in my room to red,iot_hue_lightchange
+445,start my robot vacuum cleaner by ten to eleven am daily,iot_cleaning
+6232,save my opinion on adele's song,music_likeness
+2130,set a meeting with hongbin,calendar_set
+683,audio,play_audiobook
+3519,can you check and confirm my last command please.,general_confirm
+5261,please turn off the lights in this room,iot_hue_lightoff
+10015,will i need a raincoat when i go to glasgow on sunday,weather_query
+7577,how much is five dollars worth in euros,qa_currency
+8067,can you do nine plus two,qa_maths
+3992,tell me a joke about a man,general_joke
+8118,what did the s n. p close out at,qa_stock
+768,what is the most current exchange rate in china,qa_currency
+2727,what did the clinic say about my exams,email_query
+6167,get rid of item on the list,lists_remove
+6455,what's the name of the piece you are playing,music_query
+10436,my day was great,general_quirky
+8498,where is a great pub,recommendation_locations
+10036,let me know the alarm time,alarm_query
+9481,i need a taxi in thirty minutes,transport_taxi
+4027,are you aware this joke,general_joke
+5423,turn on the lamp,iot_hue_lighton
+5529,spread some lights,iot_hue_lightup
+195,are there any new emails from name,email_query
+3767,don't mind.,general_dontcare
+3532,please check and confirm detail.,general_confirm
+5381,switch off the light on the left,iot_hue_lightoff
+2803,did i get an email from sarah,email_query
+3444,"olly that's enough, cancel.",general_commandstop
+3687,anything is ok to me.,general_dontcare
+10645,add bruno mars to my favorites,music_likeness
+4074,this was not what i am searching for.,general_negate
+8822,what friends were in popular places the last day,social_query
+3277,yes that's amazing.,general_affirm
+8977,order chinese for delivery,takeaway_order
+9257,does that restaurant allow call in orders,takeaway_query
+2536,time in chicago,datetime_query
+3868,your words was not so clear.,general_explain
+3101,please start an email for my sister,email_sendemail
+10723,how about a game of snakes and ladders,play_game
+5534,can you raise the lights for me please,iot_hue_lightup
+10731,would you like to play never have i ever,play_game
+8355,are there any events coming up,recommendation_events
+9210,does brick grill deliver,takeaway_query
+4834,at one pm today start the robot vacuum cleaner,iot_cleaning
+277,i like you cancel.,general_commandstop
+10439,today was a hard day,general_quirky
+5716,can you create a new list,lists_createoradd
+6725,start reading fifty shades of grey from chapter four,play_audiobook
+603,i don't have enough money to buy the nintendo switch right now can you please remove it on my amazon wishlist,lists_remove
+8576,what's a good movie that's out right now,recommendation_movies
+6748,resume the playback of zanes se chronicles,play_audiobook
+6252,i love hip hop,music_likeness
+7053,let's hear some indie rock okay,play_music
+1001,order me an uber ride please,transport_taxi
+3398,olly would you shut up please.,general_commandstop
+8968,order me a cheese burger from tommy's burgers,takeaway_order
+2174,set the event to recur on the first monday of the month,calendar_set
+3697,anything is ok with me.,general_dontcare
+5831,make a list of camera photos,lists_createoradd
+5712,add butter to the list,lists_createoradd
+9121,restaurant delivery update,takeaway_query
+7473,play a pop station on the radio,play_radio
+2609,what time is it in england,datetime_query
+10261,what is john's last name,email_querycontact
+8424,where is the nearest pub in the city,recommendation_locations
+1464,call me at six am,alarm_set
+7636,give me the definition of the word fondle,qa_definition
+10179,please explain the rice recipe,cooking_recipe
+7255,play that podcast i was listening to yesterday,play_podcasts
+4932,double cappuccino small please,iot_coffee
+4861,"i'll take my coffee, black",iot_coffee
+8608,what's worth watching,recommendation_movies
+10944,tweet long wait time and unprofessional employees,social_post
+9834,what does the traffic look like on my usual route to work,transport_traffic
+6712,can you play my favorite audio book of king kong,play_audiobook
+4845,will you please get the coffee machine to make some coffee,iot_coffee
+1223,when is my alarm set for,alarm_query
+4703,start roomba,iot_cleaning
+3646,please could you confirm instruction.,general_confirm
+7458,please play the radio,play_radio
+5542,turn the lights brighter,iot_hue_lightup
+8367,are there any events going on in milan,recommendation_events
+7332,change channel to one hundred and three,play_radio
+1659,mute yourself until i say otherwise,audio_volume_mute
+1629,mute speakers please,audio_volume_mute
+2764,did linda connors reply to any of my emails this morning,email_query
+8659,tweet my current location,social_post
+3981,the joke of the day,general_joke
+4957,yo i need a coffee now,iot_coffee
+10672,please tell me the name of this song that is currently playing,music_query
+1714,turn up volume of music,audio_volume_up
+5136,change lights,iot_hue_lightchange
+4253,"awesome work, you've done well.",general_praise
+1072,i am gonna need an umbrella today after sunset,weather_query
+9135,does fongs have delivery,takeaway_query
+5536,turn up the lights,iot_hue_lightup
+7660,describe a chart,qa_definition
+6387,who is the artist of the song playing now,music_query
+6378,what's the name of this song,music_query
+9726,is the road in some particular area wide or narrow,transport_traffic
+4939,do a coffee for me please,iot_coffee
+10080,turn the music lower,audio_volume_down
+3300,yes perfectly.,general_affirm
+7266,start playing my most played podcast,play_podcasts
+4423,how about you,general_quirky
+5888,what does the list contain,lists_query
+10656,favorite this music,music_likeness
+5524,bring up lights,iot_hue_lightup
+5669,activate the wemo plug socket,iot_wemo_on
+9201,current status of take out order,takeaway_query
+8301,what's happening here,recommendation_events
+1816,is there any events planned for the next three months,calendar_query
+505,turn off the lights in the bathroom,iot_hue_lightoff
+10576,turn on the fan socket,iot_wemo_on
+8710,send this message to @microsoft on twitter,social_post
+3376,please could you shut off.,general_commandstop
+3055,draft an email to kailey about work later,email_sendemail
+3765,do not mind to select any one.,general_dontcare
+2715,add this email address to my contacts and send an email to,email_addcontact
+5653,turn on the smart plug,iot_wemo_on
+1291,turn off the alarm for tomorrow morning,alarm_remove
+7349,can you turn msnbc on in the car,play_radio
+3940,i am not clear about your answers.,general_explain
+2928,please delete the contacts that i havent spoken to in three of months,email_querycontact
+6916,play candy crush,play_game
+7563,what is the exchange rate of us dollar today for rupee,qa_currency
+8546,which rom com movie can i watch in theatres around new york,recommendation_movies
+3789,"i have no idea for which to choose, olly.",general_dontcare
+7948,how big is the grand canyon,qa_factoid
+10269,create an email that needs to go out to my family,email_sendemail
+9269,how long does it take to get the train from rome to paris,transport_query
+3572,i would like you check details please.,general_confirm
+8371,show me upcoming events in the quad cities,recommendation_events
+6798,please continue reading audiobook,play_audiobook
+7402,i need you to start fm eight hundred and ninety radio channel,play_radio
+2191,remind me to meet joe for lunch tomorrow,calendar_set
+3112,send email to david davis email address,email_sendemail
+2022,cancel all meetings for today,calendar_remove
+113,delete my meeting event for march nineteen at one pm,calendar_remove
+1844,do i have a meeting today,calendar_query
+7189,can you backward an episode in the podcast,play_podcasts
+96,one thousand two hundred and thirty pm already you will have a meeting in ten mins,calendar_query
+10217,add something@gmail dot com to my contacts,email_addcontact
+6137,get rid of bananas on the list,lists_remove
+3633,could you please check and confirm last thing i said.,general_confirm
+9815,give details about the current traffic,transport_traffic
+8331,to which event can i go in milan now,recommendation_events
+755,play one thousand and thirty seven fm,play_radio
+864,what's going on,recommendation_events
+406,do i need to spare washing my car today,general_quirky
+10208,tell me the time,datetime_query
+8406,near by grocery,recommendation_locations
+10658,what music is playing right now,music_query
+5352,turn off room lights,iot_hue_lightoff
+1838,whats going on in my calendar,calendar_query
+1752,turn up speakers,audio_volume_up
+2391,i want to cook italian dishes show me some,cooking_recipe
+7701,define love without invoking the term love,qa_definition
+9281,next train to dc,transport_query
+9899,is it going to rain in seattle today,weather_query
+10854,how old is carrie underwood,qa_factoid
+4439,how would you tackle the following problem brush your teeth,general_quirky
+10203,what time is it in a city,datetime_query
+5616,off all type of active devices,iot_wemo_off
+3235,yeah wonderful.,general_affirm
+191,save the email to my contact,email_addcontact
+8845,is there anything important happening on social media,social_query
+2553,what day today,datetime_query
+9720,how is the traffic now,transport_traffic
+4603,say it one more time please.,general_repeat
+7135,play hurt by johnny cash next,play_music
+374,i think you don't get answer right.,general_negate
+5258,office lights off,iot_hue_lightoff
+10334,check and confirm what i said please.,general_confirm
+7457,switch on the radio and play hello fm station,play_radio
+5521,please turn the lights up to eight,iot_hue_lightup
+1765,more volume please,audio_volume_up
+9459,book a taxi at my home address for right now,transport_taxi
+2054,what do i have to do today,calendar_remove
+4380,"that was useful,.",general_praise
+8173,tell me which mutual funds have maximum yearly returns,qa_stock
+2684,save to contacts,email_addcontact
+5807,please find all name start with alphabetic of a and create a list,lists_createoradd
+10615,which lists are present in the notes app,lists_query
+7796,who was the first president of united states,qa_factoid
+1562,off the speakers,audio_volume_mute
+7687,how would you describe a ball,qa_definition
+3067,write an email about next week weather to my wife,email_sendemail
+8642,please tweet for me about the bad service rended by the taj restaurant,social_post
+8479,tell me what is the nicest place to go,recommendation_locations
+10696,what is happening in the world right now,news_query
+5197,bring the lights down a bit,iot_hue_lightdim
+361,i didn't say it.,general_negate
+5406,will you please turn the lights off,iot_hue_lightoff
+3993,hey olly make me laugh with a good joke,general_joke
+1319,remove finlee's bedtime alarm,alarm_remove
+8231,what are amd stock prices,qa_stock
+10110,made media volume louder,audio_volume_up
+9468,check in a taxi for booking,transport_taxi
+8509,make a reservation for two at olive garden,recommendation_locations
+6941,could you play poker with me,play_game
+4221,sorry but you have messed up the command.,general_negate
+9152,tell me which catering packages are available,takeaway_query
+1307,remove my eight pm alarm and set it to seven pm,alarm_remove
+6447,who's playing the oboe on this piece,music_query
+10350,any one will be good to me.,general_dontcare
+8046,what is four plus four,qa_maths
+381,"you rock, thank you very much, olly.",general_praise
+1992,get rid of everything on my calendar,calendar_remove
+3497,olly please could you cancel.,general_commandstop
+9751,can i make back home without a traffic jam,transport_traffic
+3118,email co worker about work project,email_sendemail
+5912,list entry,lists_query
+185,can you tell me the date today,datetime_query
+256,yeah perfect response to command.,general_affirm
+1257,remove six am alarm of whole week for future,alarm_remove
+6263,i am forever hip hop,music_likeness
+4492,hey today i was fired from my job,general_quirky
+620,i really enjoy this song,music_likeness
+9753,i would like to know the traffic condition,transport_traffic
+2385,can you prepare a cheese sandwich,cooking_recipe
+6151,clear all from my iphone,lists_remove
+1191,what time is my alarm set for,alarm_query
+2282,cooking recipe,cooking_recipe
+843,how is shell s stock doing today,qa_stock
+8302,list local ongoing exhibitions,recommendation_events
+678,play from my last session of joes book,play_audiobook
+8844,who's birthdays are today on facebook,social_query
+4552,can you try the last one spoken once again.,general_repeat
+2117,remind me everyday at two pm for lunch,calendar_set
+8510,show me some vegan restaurants close by,recommendation_locations
+249,send reply to joe,email_sendemail
+3189,email chris add following content sorry i will be late today,email_sendemail
+5925,find list in my pda,lists_query
+1875,how many calories did i burn between three and five today,calendar_query
+2435,convert time zone,datetime_convert
+3455,please can you cancel it.,general_commandstop
+10255,please open my contact list,email_querycontact
+9183,where can i order takeout,takeaway_query
+8818,tell me the exact count of followers on my twitter handle as of today,social_query
+9102,call pizza hut and find out if my order is ready,takeaway_query
+4215,"no, you gave me incorrect information.",general_negate
+1593,silence for two hours,audio_volume_mute
+10182,what can i substitute butter with,cooking_recipe
+3116,send mail to mom i am planning vacations with her next week,email_sendemail
+2594,what date is the third friday of this month,datetime_query
+9403,directions to the target on i forty,transport_query
+11032,i need you to book a taxi for me,transport_taxi
+3409,olly talk to you later on.,general_commandstop
+7400,hey olly turn the radio on,play_radio
+971,hi there do you offer home delivery for orders,takeaway_query
+2545,what time is it in another city,datetime_query
+2313,how long should i simmer rice for,cooking_recipe
+8000,convert ten miles to kilometers,qa_maths
+5874,open my list,lists_query
+3221,good response to the command.,general_affirm
+10421,"thank you, olly.",general_praise
+325,wouldn't really mind for whatever.,general_dontcare
+7518,convert five s. d. to rials,qa_currency
+1749,can you turn up the volume,audio_volume_up
+7890,where is the statue of liberty located,qa_factoid
+3198,you have done that perfectly.,general_affirm
+10972,hi there tell me latest updates of times of india page in facebook,social_query
+681,resume animal farm,play_audiobook
+1681,turn up radio volume,audio_volume_up
+5598,disable smart socket,iot_wemo_off
+7486,convert one euros to us dollars,qa_currency
+1705,raise the volume to fifty,audio_volume_up
+4414,dubai marriage,general_quirky
+5097,make the lights a different color,iot_hue_lightchange
+2125,reminders,calendar_set
+54,lower the volume to twenty,audio_volume_down
+7869,how many species of bees are there in the united states,qa_factoid
+7689,could you please tell me the meaning for the item laptop,qa_definition
+5338,can you please off the light,iot_hue_lightoff
+1437,wake me up at five thirty,alarm_set
+2260,call sarah,calendar_set
+3025,what is the home phone number for sarah,email_querycontact
+10512,set colour blue for all lights of my house,iot_hue_lightchange
+10595,i need to create a new to do list,lists_createoradd
+4806,please activate my vacuum cleaner,iot_cleaning
+4507,suggestions for future,general_quirky
+4963,start the coffee maker,iot_coffee
+4622,retry it please.,general_repeat
+11087,please confirm the weather for the thirteenth of this month,weather_query
+1033,book the the next train ticket to chennai,transport_ticket
+1217,review all alarms,alarm_query
+5458,turn the chandelier all the way up,iot_hue_lightup
+10282,yeah it's confirmed.,general_affirm
+10755,can you play call me by aretha franklin after this song is finished playing,play_music
+954,i would like to pickup a veggie sub with a cookie from subway,takeaway_order
+8850,what trending on twitter,social_query
+10189,freezing,cooking_recipe
+6974,play candy crush with me,play_game
+4285,"that is cool, musch appreciated.",general_praise
+10554,can the lights be turned up,iot_hue_lightup
+1006,book a taxi,transport_taxi
+9136,how many minutes do i need to wait to pick up my food from china on the go,takeaway_query
+2173,i have to go to a meting on friday at noon can you remind me,calendar_set
+3964,once again explain your answer.,general_explain
+6646,what's the news in politics on cnn,news_query
+10429,i need to keep two toddlers busy tell me what to do,general_quirky
+5264,could you please turn off the overhead light in the kitchen,iot_hue_lightoff
+3821,explain it further please.,general_explain
+10549,turn off lights in bedroom,iot_hue_lightoff
+7860,where is steven spielberg living,qa_factoid
+417,please say one more time again.,general_repeat
+5026,light settings,iot_hue_lightchange
+7836,when did beyonce and jay z get married,qa_factoid
+2387,what do i need to make lamb pathia,cooking_recipe
+515,could you turn the light off,iot_hue_lightoff
+9001,i want to order some takeaway food,takeaway_order
+7659,give me the description of a smartphone circuit,qa_definition
+3975,can you tell me a nice joke,general_joke
+4350,"it was nice one, thank you very much.",general_praise
+706,bring up papa pear saga,play_game
+958,find me the nearest chinese for delivery,takeaway_order
+7768,tell me about rock,qa_definition
+5432,and the darkness has fallen,iot_hue_lighton
+1489,lower volume to half,audio_volume_down
+4592,can you speak it again please.,general_repeat
+5016,house change all lights to blue,iot_hue_lightchange
+981,where can i book a train ticket to oregon,transport_query
+10087,don't talk,audio_volume_mute
+4976,run coffee maker,iot_coffee
+8342,show todays events in ny,recommendation_events
+1056,do i have to bring umbrella for tonight party,weather_query
+4927,start the coffee machine at three,iot_coffee
+2069,delete from the calendar the next event,calendar_remove
+9394,show me today all train times of next two hours at jodhpur to jaisalmer,transport_query
+8740,post that i am going to woodland shoe store,social_post
+6915,play my favorite game by name naughty dog,play_game
+794,define economics,qa_definition
+4731,activate robot cleaner in an hour,iot_cleaning
+2561,what day does april sixteenth fall on,datetime_query
+2960,how do i dial sarah,email_querycontact
+1413,set my alarm for six am tomorrow,alarm_set
+4528,does mr t have a family,general_quirky
+3641,would you confirm the last thing i said please.,general_confirm
+2366,find the correct temperature for frying a whole turkey,cooking_recipe
+2748,tell me about new emails,email_query
+7020,turn on my michael jackson playlist,play_music
+8593,what movies are playing tonight at nine pm at the amc nine,recommendation_movies
+1290,please turn off my alarm for this evening,alarm_remove
+752,turn on the local radio,play_radio
+5784,please create a new list,lists_createoradd
+1237,remove my earliest alarm for tomorrow,alarm_remove
+7385,play music now from radio plus,play_radio
+8915,check how many likes did i got on my most recent post,social_query
+5825,add ashley to the wedding invite list,lists_createoradd
+9892,what will be the temperature today for miami florida,weather_query
+8042,what is three plus four,qa_maths
+945,can i order out,takeaway_order
+7151,play song aces high,play_music
+1627,mute speakers,audio_volume_mute
+7730,what is this thing,qa_definition
+6350,show me the name of the song playing right now,music_query
+8661,fraud in weighing products,social_post
+5890,what do i need to get done today,lists_query
+4515,i watched the best movie please reserve me a copy when it releases,general_quirky
+6939,please choose a game that you can play with me,play_game
+7662,what is google,qa_definition
+549,toggle wemo plug socket on,iot_wemo_on
+9686,can i get a train ticket to,transport_ticket
+1607,disable music player,audio_volume_mute
+3810,anything is okay for me.,general_dontcare
+4324,"musch appreciated, that's good.",general_praise
+3959,"s1, could you please clarify me about what you've just said once again.",general_explain
+3159,hey send email to john,email_sendemail
+2147,add a reminder to april fourth to go to the dentist,calendar_set
+10202,new york time,datetime_query
+5738,add this one also,lists_createoradd
+10654,save my opinion about the current song playing,music_likeness
+4907,start making a coffee,iot_coffee
+4702,please clean the floor,iot_cleaning
+510,by main power off,iot_hue_lightoff
+7166,make my collection mostly pop with a good bit of psychedelia,play_music
+8035,what is three hundred and four plus one,qa_maths
+4264,thanks for reminding me.,general_praise
+6910,let's play space invaders together,play_game
+385,"you are my star, thank you so much, olly.",general_praise
+156,search for your favorite meal,cooking_recipe
+8390,whats around,recommendation_locations
+618,add this song to favorites playlist,music_likeness
+10638,delete from playlist my old english songs list,lists_remove
+6248,save this song as my favorite,music_likeness
+5362,turn light off,iot_hue_lightoff
+10605,do i have banana in my shopping list,lists_query
+4107,"wait, this is not the right command.",general_negate
+7338,tune in some radio,play_radio
+8457,what is the best shop restaurant around angel,recommendation_locations
+166,it is ten am in eastern standard time what time it is now it pacific standard time,datetime_convert
+2416,how long should i cook chicken for,cooking_recipe
+3690,don't care.,general_dontcare
+10119,where is my meeting at nine am,calendar_query
+5046,change the lights of the house to a blue hue,iot_hue_lightchange
+10891,what is going on in south tampa today,recommendation_events
+8083,what is the highest microsoft stock price today,qa_stock
+1053,what are the traffic conditions on the one hundred and one,transport_traffic
+10765,play favorited podcasts on fishing,play_podcasts
+8745,send a tweet to safeway about water in my gas,social_post
+7131,select and play only christian rock from one thousand nine hundred and ninety upwards,play_music
+10603,what lists are available,lists_query
+2369,how do i bake a potato,cooking_recipe
+8203,turn on notification for all news on the stock market,qa_stock
+6195,please save the remarks i have on this current song,music_likeness
+9611,book for me a train ticket to washingdon dc,transport_ticket
+4946,prepare coffee,iot_coffee
+1800,today's schedule,calendar_query
+5502,please brighten the lights,iot_hue_lightup
+1355,set up an alarm clock at one pm,alarm_set
+8545,nearest walmart location,recommendation_locations
+9331,how long is the walk from nyack to valley cottage,transport_query
+3447,olly can you shut up.,general_commandstop
+6921,open subway surfers,play_game
+7235,please play a podcast,play_podcasts
+6142,remove the list,lists_remove
+3259,correcly.,general_affirm
+8178,how much is apple stock worth,qa_stock
+8848,has john replied to my facebook post,social_query
+1439,set my alarm for six thirty in the morning tomorrow,alarm_set
+2618,ten past seven,datetime_query
+11037,book a cab in the evening for me,transport_taxi
+10962,what is currently trending on twitter,social_query
+9362,when does the next train to work leave,transport_query
+8924,let me know what maria has put on her facebook over the weekend,social_query
+1276,remove all alarm of sunday,alarm_remove
+8882,how many likes does my last instagram photo have,social_query
+9110,where is an olive garden that does takeaway,takeaway_query
+9870,is there bad traffic on the highway right now,transport_traffic
+4681,could you repeat that.,general_repeat
+4990,make me coffee now,iot_coffee
+7369,play the urban radio station,play_radio
+2065,please delete all meeting after seven am,calendar_remove
+2672,add this email to my contact,email_addcontact
+9877,tell me what was the temperature in our city at twelve pm,weather_query
+5931,what items did i plan to buy,lists_query
+3876,explain further on last sentence to me please.,general_explain
+7217,will you please play a podcast,play_podcasts
+8917,what are trending topics on twitter right now,social_query
+528,can you turn up the lights,iot_hue_lightup
+4140,"oops, i think you do not understand me.",general_negate
+376,"uh no, you did not understand what i am searching for.",general_negate
+5092,please change the light to green,iot_hue_lightchange
+6064,remove my to do list,lists_remove
+8776,customer service complaint,social_post
+2599,what is the current time in lagos nigeria,datetime_query
+5973,do i have anything outstanding on any lists,lists_query
+9187,does fridays do takeaway,takeaway_query
+2365,what is the difference between bake and broil,cooking_recipe
+730,play fishing podcasts that are favorited,play_podcasts
+3135,compose a mail for jack,email_sendemail
+9939,what's it like outside,weather_query
+8028,multiply one thousand by twelve,qa_maths
+397,today i had a lunch with my longtime sweetheart play me a nice song to the mood,general_quirky
+1968,cancel the breakfast at tiffany's house,calendar_remove
+3307,yes you've understood that right.,general_affirm
+7575,tell me the exchange rate of rupee for dollar,qa_currency
+4295,i appreciate answers.,general_praise
+2348,search for gluten free menus,cooking_recipe
+3196,yeap excellent response to the command.,general_affirm
+1363,set alarm for one hour from now,alarm_set
+770,how much is dollars american worth in yen,qa_currency
+4597,replay the last utterance said.,general_repeat
+8442,give me the name of all the shops in my area,recommendation_locations
+9701,fetch me two train tickets for the earliest train to paris,transport_ticket
+4106,i think this was not correct.,general_negate
+2885,what is email id of john,email_querycontact
+5330,please turn off only right side light,iot_hue_lightoff
+3989,i need a funny joke to tell sam,general_joke
+7396,start bbc radio,play_radio
+5983,check out my to do list,lists_query
+4081,thanks but this is not the right response.,general_negate
+8611,look up movies near me,recommendation_movies
+2310,find a recipe that uses ground beef and zucchini,cooking_recipe
+9895,how much snow has fallen in maine since yesterday,weather_query
+2197,i have a meeting tomorrow morning at ten please remind me,calendar_set
+2284,recipe please,cooking_recipe
+10674,tell me the singer of this track,music_query
+477,make curser adjustable position,iot_hue_lightchange
+2791,do i have a new email from eric,email_query
+5177,lower the brightness of the lights,iot_hue_lightdim
+10800,what is the exchange of euro to dollars,qa_currency
+8669,complaint on service provider on my twitter,social_post
+4369,thank you very much for that information.,general_praise
+9560,book me a train ticket in any train to bombay for tomorrow,transport_ticket
+2519,what day does my birthday fall on next year,datetime_query
+3777,this is unimportant.,general_dontcare
+2208,remind me later,calendar_set
+10937,tweet comcast and tell them that their service is down again,social_post
+9710,please book the five pm train to rockville,transport_ticket
+8976,call peking garden,takeaway_order
+7968,what is three times seven,qa_maths
+1942,make a list of all the halloween events going around in new york,calendar_query
+1799,time time is the holiday party at the office,calendar_query
+9399,what are departure arrival times for this train,transport_query
+7716,what is computer,qa_definition
+11104,what degree is it outside,weather_query
+694,can we play twenty questions,play_game
+2006,cancel meeting at three,calendar_remove
+7719,what does speaker mean,qa_definition
+9573,book a train for twenty two march at twelve pm,transport_ticket
+1623,please mute the sound,audio_volume_mute
+2478,how much later is new york than la,datetime_convert
+304,i like you to check and confirm what i said please.,general_confirm
+8287,any events this weekend in pondichery,recommendation_events
+3289,good response to command.,general_affirm
+6307,current song rating three stars,music_likeness
+1674,i'm in a meeting please do not speak,audio_volume_mute
+6544,give me the winning numbers to the powerball lottery,news_query
+8299,events upcoming,recommendation_events
+3682,"any one will be okay with me, olly.",general_dontcare
+1818,where is the event today,calendar_query
+9852,traffic report,transport_traffic
+4238,you've done it right thank you so much.,general_praise
+4252,"it's helpful, thank you very much.",general_praise
+8449,find a grocery store in town that carries creamed pickled herring,recommendation_locations
+3107,email alice to let her know we are on the way,email_sendemail
+2410,show me pancakes,cooking_recipe
+6511,please proceed to the next available rock song,music_settings
+835,can you add up thirteen plus five plus nine for me,qa_maths
+10122,what is next in my calendar,calendar_query
+6885,open chess app and begin game,play_game
+143,it should spices,cooking_recipe
+1341,set an alarm for two pm,alarm_set
+8573,what do you suggest that i watch this weekend,recommendation_movies
+5267,turn down the lights to medium,iot_hue_lightoff
+1277,do not wake me up tomorrow,alarm_remove
+1770,increase the volume a bit,audio_volume_up
+3922,i didn't catch that.,general_explain
+2994,when was the last call i received from jordan,email_querycontact
+8305,list events nearby new york,recommendation_events
+5803,add the item to the list,lists_createoradd
+9338,can i get the directions to the nearest bar,transport_query
+2783,please tell me how many emails i have,email_query
+5123,can you change the light colors into dark in the house,iot_hue_lightchange
+10978,food order from grubhub,takeaway_order
+9900,will it get warmer here next week,weather_query
+8716,write this complaint to comcasts customer service twitter,social_post
+5495,turn up the brightness,iot_hue_lightup
+6285,make a note please i like modern alternative rock music,music_likeness
+8315,what is going on around me,recommendation_events
+5121,select a different color for the lights,iot_hue_lightchange
+3576,could you please confirm the details.,general_confirm
+4100,"uh no, you've done in wrong manner.",general_negate
+2583,give me the time in london,datetime_query
+617,i like it,music_likeness
+8008,what is zero divided by zero,qa_maths
+3684,"this is unimportant to me, olly.",general_dontcare
+6432,when was this song first recorded,music_query
+8796,please read my facebook feed,social_query
+8045,what is eighty seven minus fourteen,qa_maths
+1335,please set alarm for,alarm_set
+6730,can you play my latest audio book,play_audiobook
+8352,please search for local events,recommendation_events
+7673,tell me what a freeway is,qa_definition
+2777,what is my recent email activity,email_query
+4519,too private,general_quirky
+2004,remove the event from monday,calendar_remove
+1408,please set alarm for all days,alarm_set
+10461,i want to hear what i've said again.,general_repeat
+5830,add eggs to list,lists_createoradd
+8886,how many likes does my status from yesterday have,social_query
+10061,set an alarm for five am,alarm_set
+2329,please find the recipe for meatballs,cooking_recipe
+8466,hey olly tell me what shops i am near,recommendation_locations
+7665,give me the definition of the word armor,qa_definition
+7103,please play me a song from my favourite list,play_music
+7272,play next on podcast,play_podcasts
+1883,let me know about upcoming events,calendar_query
+10337,i want you to check what just said please.,general_confirm
+2612,current date please,datetime_query
+2907,what is this person's contact information,email_querycontact
+8404,i want to find some chinese food what is near me,recommendation_locations
+6580,what happened last week,news_query
+8568,what is a good iranian film from two thousand and sixteen,recommendation_movies
+319,i do not really mind for whatever.,general_dontcare
+6923,i want to play poker with you,play_game
+1508,decrease twenty percent,audio_volume_down
+5761,grocery list add eggs,lists_createoradd
+6290,mark this song as a favorite,music_likeness
+2059,delete my meeting for tomorrow,calendar_remove
+9873,i will need a scarf in afternoon to overcome sunlight,weather_query
+7669,what is the definition of forensic,qa_definition
+9691,buy a train ticket from lakeland florida to new york,transport_ticket
+5655,please turn on my door lock,iot_wemo_on
+10647,add my opinion to this song great,music_likeness
+1541,lower the speakers,audio_volume_down
+9662,book a first class ticket in the next train to miami,transport_ticket
+4402,famous person biographies,general_quirky
+2242,remind me to go grocery shopping today,calendar_set
+2655,add dr rosenstock as an email contact,email_addcontact
+4822,initiate to operate robot vacuum cleaner,iot_cleaning
+6812,play the time machine by h g wells,play_audiobook
+5018,change the light color to red,iot_hue_lightchange
+3027,display address of john,email_querycontact
+2718,i would like you to add an email to my contacts,email_addcontact
+1595,mute for two hours,audio_volume_mute
+10589,reopen groceries and add milk,lists_createoradd
+2087,reset all events in calendar,calendar_remove
+232,what is jill's home phone number,email_querycontact
+2865,do i have an email from person a,email_query
+3007,please let me know the what raj's status update in facebook,email_querycontact
+10933,what movies are playing tonight,recommendation_movies
+7039,google find and play florida georgia line the one with nelly,play_music
+4569,please speak the last one said one more time.,general_repeat
+4219,sorry but i think you got it wrongly.,general_negate
+10301,olly please could you shut down.,general_commandstop
+7866,how many countries are in the european union,qa_factoid
+769,if i have five dollars how many rupies is that,qa_currency
+9660,open train ticket app,transport_ticket
+6746,can you put on the chuck palhunik audio book,play_audiobook
+8318,tell me all local events,recommendation_events
+2024,remove my calendar event at one pm today,calendar_remove
+2378,get recipe for apple pie,cooking_recipe
+2575,i need to know what is the date today,datetime_query
+3554,can you check and confirm details.,general_confirm
+421,i need to hear what you've said again.,general_repeat
+6019,remove this list from the others,lists_remove
+5151,lower the lights in the bedroom,iot_hue_lightdim
+1919,what meetings do i have next thursday,calendar_query
+1792,turn up sound,audio_volume_up
+9264,what time does the train leave for chicago,transport_query
+3983,find me the best knock knock joke on the internet,general_joke
+2129,every wednesday night at five pm remind me to meet phil,calendar_set
+5068,set the living room lights to red,iot_hue_lightchange
+4952,can you begin the brew,iot_coffee
+8462,i would like to know the best rating pubs in the local area,recommendation_locations
+4647,please try your last sentence you said once again.,general_repeat
+10851,what color is a dragon fruit,qa_factoid
+6989,give a hand to this game,play_game
+8742,post a facebook status update,social_post
+10159,remind me tomorrow at four about an event,calendar_set
+10257,where does joe joe live,email_querycontact
+7488,how many pesos can i get for a dollar right now,qa_currency
+10956,anything new on social media,social_query
+6330,how do you feel after hearing justin bieber's new album,music_query
+1167,what alarms are set in the house,alarm_query
+5196,dim all interior lights,iot_hue_lightdim
+3458,olly can you please shut down.,general_commandstop
+4303,"it's excellent, appreciated.",general_praise
+3700,any one is okay to me.,general_dontcare
+7587,which currency is greater the us dollar or yen,qa_currency
+8870,in every three hours give me my facebook update,social_query
+5281,light off now,iot_hue_lightoff
+8194,list the latest apple stock prices,qa_stock
+3647,would you please confirm details.,general_confirm
+746,skip this one,play_podcasts
+4043,i wanna laugh can you make it happen,general_joke
+10342,"i don't mind for any one, olly.",general_dontcare
+6246,i really ska music,music_likeness
+7356,play radio mirchi for me,play_radio
+622,what is in my favorites music folder,music_likeness
+10351,anything is good to me.,general_dontcare
+1556,silently adjust,audio_volume_mute
+5184,turn down lights,iot_hue_lightdim
+396,"it's helpful, appreciated.",general_praise
+7107,song next please,play_music
+6968,open up angry birds,play_game
+6984,do you want to play,play_game
+4371,ah it's amazing.,general_praise
+8147,what are the stock prices,qa_stock
+4607,speak one more time please.,general_repeat
+1423,wake me up at this time,alarm_set
+7795,how many legs does a dog have,qa_factoid
+6907,want to play a game of trivia,play_game
+10262,tell me the landline number,email_querycontact
+6144,delete my shopping list,lists_remove
+9923,how does it feel outside,weather_query
+1346,set alarm for eight am,alarm_set
+7026,play anything by cat stevens and i'll be happy,play_music
+3852,i can not quite catch up with you.,general_explain
+2717,save my contacts,email_addcontact
+7953,how much money will i make for the week if i make dollars per hour and work twenty hours,qa_maths
+4732,please turn on my robot vacuum cleaner,iot_cleaning
+2442,when it's ten pm here what time is it in brisbane,datetime_convert
+6270,this is a good song put it on repeat,music_likeness
+3813,would not mind for any one.,general_dontcare
+9096,hey order me some take out from jason's deli,takeaway_order
+5609,turn off the wemo socket in the kitchen,iot_wemo_off
+7297,open podcast player,play_podcasts
+1446,can you set my alarm for seven thirty am,alarm_set
+10487,brew me a cup of coffee,iot_coffee
+925,who is doing facebook live right now,social_query
+2537,may i know the time in london,datetime_query
+526,increase brightness by twenty percent,iot_hue_lightup
+1849,march one is susan's birthday right,calendar_query
+3183,email my sister about mom's birthday jane we should think about arranging the party at the park,email_sendemail
+7126,play neil sedaka,play_music
+20,turn off my first alarm,alarm_remove
+10653,my favourite music band is queen,music_likeness
+5990,what is my list,lists_query
+3543,please check and confirm the command.,general_confirm
+7862,tell me who the thirty second president is,qa_factoid
+5083,make the lighting bit more warm here,iot_hue_lightchange
+3508,will you check and confirm instruction.,general_confirm
+7287,go to beginning of previous episode,play_podcasts
+6483,open music player settings,music_settings
+405,what is your country,general_quirky
+1943,what is happening this weekend,calendar_query
+3961,"s2, i was unclear about your response.",general_explain
+5672,please turn on my smart plug socket,iot_wemo_on
+2846,do i have any new emails from dan,email_query
+9519,request a taxi from udrive service,transport_taxi
+5174,please lower the lights,iot_hue_lightdim
+3902,"s1, please explain me more on your answers.",general_explain
+744,can you please download my podcast file available in internet and play it once,play_podcasts
+6624,let me know if anything happens on that subject,news_query
+10849,who is the better half of obama,qa_factoid
+4756,clean the carpets,iot_cleaning
+3275,yeap strongly agreed.,general_affirm
+5820,create a new list,lists_createoradd
+7313,play a podcast about latest yoga videos,play_podcasts
+8829,check my facebook notification,social_query
+6519,repeat all,music_settings
+10370,"s1, please elaborate me on your answer further.",general_explain
+13,what alarm time had you set,alarm_query
+2882,check in contacts,email_querycontact
+5741,add eggs to my grocery list,lists_createoradd
+4289,"that's cool,.",general_praise
+2652,save this email in contact,email_addcontact
+1886,what time do i have a doctors appointment on the twenty second,calendar_query
+9217,remember i've ordered a cake for tonight's birthday party let me know the status please,takeaway_query
+4226,you have done the task wrong.,general_negate
+9161,does charley's steakhouse deliver,takeaway_query
+8591,kung fu panda three,recommendation_movies
+642,what music service has some soul music i can listen to,music_query
+8753,tweet the current temperature,social_post
+7936,actually what is the life style of sahara desert,qa_factoid
+6761,resume the playback of a child called it,play_audiobook
+2842,do i have email from my friend rachel,email_query
+5030,change the light color to black light,iot_hue_lightchange
+614,i like to be it,music_likeness
+6808,play my book,play_audiobook
+9352,how often does the train arrive and depart from penn station,transport_query
+1120,are there any alarms set right now,alarm_query
+6616,what's the latest news about us election,news_query
+7225,please play james altucher's podcast,play_podcasts
+4662,would you tell me it one more time please.,general_repeat
+10407,"dammit, i think incorrect response.",general_negate
+1807,what meetings do i have between eight ten today,calendar_query
+7535,please give me detail of one yen equals dollar,qa_currency
+8891,anything new on insta,social_query
+8846,instagram,social_query
+5683,enable my plug,iot_wemo_on
+9570,order a train ticket to boston,transport_ticket
+5601,switch off the smart plug socket now,iot_wemo_off
+11034,call a cab,transport_taxi
+9082,order two cheeseburgers from wings n. ale on university drive,takeaway_order
+5377,please turn off the light,iot_hue_lightoff
+4570,one more again please.,general_repeat
+10780,lets hear wgrr one hundred and three point five,play_radio
+3820,don't get this.,general_explain
+9541,book an outstation cab for tomorrow,transport_taxi
+5081,change light colors,iot_hue_lightchange
+9450,need a taxi for my travel,transport_taxi
+476,could you change the lights colour to green please,iot_hue_lightchange
+4879,start a cup of coffee for me,iot_coffee
+4556,tell me once again.,general_repeat
+3930,"s2, last sentence was not clear.",general_explain
+5718,add a item,lists_createoradd
+2876,check emails from gary for last hour,email_query
+2186,remind me about my biology test at fsu on friday,calendar_set
+1148,read me my alarms,alarm_query
+11006,when will my chinese food arrive,takeaway_query
+8762,put this on my facebook,social_post
+5881,can you find my lists,lists_query
+10405,"shit, that isn't what i wanted.",general_negate
+9050,find and order rasgulla of janta sweet home pvt ltd,takeaway_order
+7962,what is the square root of thirty six,qa_maths
+7040,play songs by adele,play_music
+3412,olly will you shut down.,general_commandstop
+10139,please clear my calendar for tomorrow,calendar_remove
+2890,what is joe joe's home address,email_querycontact
+9149,can i get takeaway from arby's,takeaway_query
+3487,"that is all, just cancel it.",general_commandstop
+5037,can the lights be changed to green,iot_hue_lightchange
+5407,turn off lights,iot_hue_lightoff
+2639,what is today's current date,datetime_query
+11075,what is the current traffic in washington town,transport_traffic
+10789,can you play beats one radio,play_radio
+1788,increase the volume of the left speaker by ten,audio_volume_up
+8987,from wangs kitchen restaurant home delivery for a chicken manchow soup,takeaway_order
+8347,show me concerts in sacramento,recommendation_events
+10881,how much does bde cost,qa_stock
+8707,send a complaint to my boss,social_post
+5734,make a new list,lists_createoradd
+3299,yeah you've got my instructions right.,general_affirm
+10178,how do you pan sear a porterhouse steak,cooking_recipe
+3384,"olly that is all, just cancel.",general_commandstop
+5573,turn off the socket,iot_wemo_off
+6492,change song,music_settings
+5090,turn living room lights red,iot_hue_lightchange
+1367,set an alarm for the dance classes two hours before the classes start,alarm_set
+9797,how is traffic over the donner summit now,transport_traffic
+8991,start a takeaway order for me,takeaway_order
+1628,will you please mute my speakers,audio_volume_mute
+8997,can you order me some buffalo chicken pizza,takeaway_order
+5227,minimize the lights,iot_hue_lightdim
+3454,olly will you shut off.,general_commandstop
+2158,remind me after a month,calendar_set
+7032,find songs from my big band playlist,play_music
+10848,when was einstein's birthday,qa_factoid
+1105,do i have an alarm set for morning flight,alarm_query
+10858,what is two hundred divided by thirteen,qa_maths
+8731,tweet consumer service that i am very disappointed with my recent interaction,social_post
+4831,turn the robot vacuum cleaner on,iot_cleaning
+73,just increase the volume a little,audio_volume_up
+8945,order me some chipotle,takeaway_order
+624,all i ever want to hear is rap,music_likeness
+2642,show time in china,datetime_query
+10362,"s1, could you rephrase further on what you have said to me please.",general_explain
+6130,delete the shopping list,lists_remove
+11094,how me the highest weather this week,weather_query
+4468,what's next,general_quirky
+2398,i want to cook pasta in american style show me how,cooking_recipe
+4693,can you retry please.,general_repeat
+4966,coffee make now,iot_coffee
+10521,minimize the light power,iot_hue_lightdim
+1779,change the speaker volume to sixty five percent,audio_volume_up
+7280,play episode two of the intern,play_podcasts
+2557,show me what day the thirty first is on,datetime_query
+6991,i want to play blackjack,play_game
+2900,call dad,email_querycontact
+4194,"stop, i think that's not the correct command.",general_negate
+9971,whats the average temperature in mangalore for this week,weather_query
+9410,is there any train plying from pune to mumbai tonight,transport_query
+3848,again clarify me on your answers please.,general_explain
+3680,i don't really mind.,general_dontcare
+9477,i need a taxi to go home,transport_taxi
+2066,cancel future event from place i worked,calendar_remove
+8507,where do people shop for clothes here,recommendation_locations
+10783,switch on the radio,play_radio
+3987,what's the funniest joke you know,general_joke
+9909,weather for the next week in new york,weather_query
+4191,that's not the correct answer.,general_negate
+10396,sorry but i think you have messed up with command.,general_negate
+5592,switch wemo plug socket off,iot_wemo_off
+6389,what song is playing right now,music_query
+10630,please remove list,lists_remove
+6835,resume harry potter book one,play_audiobook
+6906,start angry bird,play_game
+1024,book me on a train leaving penn station tomorrow travelling to any city more than two hundred miles away,transport_ticket
+10236,how many emails today,email_query
+3884,what did you mean by it.,general_explain
+3414,"that's all, just stop.",general_commandstop
+306,check and confirm my last question please.,general_confirm
+8108,honda stock price,qa_stock
+7509,what's the pound to dollar exchange rate,qa_currency
+1900,is there any program for tomorrow evening,calendar_query
+3130,send an email to my boss and attach the presentation file with it apologize for being late,email_sendemail
+9008,call and order pizza for delivery,takeaway_order
+4348,"it is useful, thank you so much.",general_praise
+5491,add light,iot_hue_lightup
+8092,when does iphone stock usually drop,qa_stock
+9738,how is the traffic at the moment,transport_traffic
+6547,what's going on at the capitol,news_query
+6063,reset my locations list,lists_remove
+7528,how many dollars are in a euro,qa_currency
+82,make this a bit louder,audio_volume_up
+659,what is the latest headline news from this newsource,news_query
+2291,how do i cook rice,cooking_recipe
+261,yeah you understood command correcly.,general_affirm
+7309,go to the third episode of this podcast,play_podcasts
+8833,brief me about my news feed stories,social_query
+7030,please play michael jackson album,play_music
+5854,add to my groceries,lists_createoradd
+5829,create a new list of my due bills,lists_createoradd
+8240,show todays events in new york,recommendation_events
+9884,temperature this hour,weather_query
+2000,delete event for tuesday,calendar_remove
+538,turn off the rice cooker socket,iot_wemo_off
+9938,do i need a jacket today,weather_query
+5641,switch on the wemo plug,iot_wemo_on
+5337,can you turn off the living room lights,iot_hue_lightoff
+3503,"olly that is all, cancel.",general_commandstop
+7082,i'dl like to hear any classical except for bach or schubert,play_music
+4274,"that is helpful, thanks.",general_praise
+7419,play rush limbaugh on ninety seven fm,play_radio
+246,email john smith,email_sendemail
+7398,play a news radio station,play_radio
+9017,place an order for a combo platter from china buffet,takeaway_order
+1289,change my alarm,alarm_remove
+2490,what is the time difference between california and michegan,datetime_convert
+1978,remove all events from my calendar,calendar_remove
+1145,how many alarms do i have set for morning hours between six and nine am,alarm_query
+9702,transportation ticket booking train,transport_ticket
+1469,set an eight hundred am alarm for next tuesday,alarm_set
+8394,find a shop that sells beer,recommendation_locations
+1842,please tell me when's my financial meeting,calendar_query
+7979,is the answer of five plus two seven,qa_maths
+10762,please start the podcast,play_podcasts
+6620,what is happening in the world today,news_query
+3526,can you check my last question.,general_confirm
+9453,call a uber in thirty minutes,transport_taxi
+7923,find me the perfect girlfriend,qa_factoid
+2210,add a reminder for april twenty as my bro's birthday,calendar_set
+2931,will you look up joe's contact information for me,email_querycontact
+3442,olly please would you just stop it.,general_commandstop
+1348,please set an alarm for tomorrows meeting at seven am,alarm_set
+8208,i would like to receive updates about the stock market every day,qa_stock
+8547,what movies are playing at theatres near me,recommendation_movies
+6004,find the list,lists_query
+7592,check currencies,qa_currency
+2225,please set a reminder for church services on sundays for eleven am,calendar_set
+1500,you're too loud,audio_volume_down
+28,please turn off the alarm,alarm_remove
+5015,adjust light when i get home,iot_hue_lightchange
+254,yeah wonderful response.,general_affirm
+6728,resume audio,play_audiobook
+1543,lower your volume please,audio_volume_down
+628,who is the song writer,music_query
+1503,quieter,audio_volume_down
+7503,how much is ten u. s. d. to cad,qa_currency
+1887,what are the upcoming reminders,calendar_query
+8248,events in city,recommendation_events
+9692,hello book train ticket from mumbai to sangli for tomorrow morning,transport_ticket
+9311,go to agha station,transport_query
+751,play the radio,play_radio
+10670,tell artist and title of this song,music_query
+4317,"it's fantastic, musch appreciated.",general_praise
+6042,delete call newspaper from my vacation list,lists_remove
+1140,tell me if my alarm is set for the morning,alarm_query
+10914,where is a nearby park where i can go running,recommendation_locations
+10470,take it in hand,iot_cleaning
+4917,would you set the coffee maker running,iot_coffee
+8906,what are the latest photos on my instagram account,social_query
+1188,did i set an alarm to have tablets in the noon,alarm_query
+10709,resume war and peace,play_audiobook
+9369,directions to mcdo,transport_query
+2427,it is nine here what time is it in california,datetime_convert
+8393,where is the best pizza on sixth street,recommendation_locations
+5767,i want to start a new list,lists_createoradd
+2188,set a reminder for fifteen minutes to change laundry loads,calendar_set
+7821,where is los angeles,qa_factoid
+4973,how do i set my coffee machine to make coffee,iot_coffee
+4297,"that's amazing job, musch appreciated.",general_praise
+1294,please remove my alarm,alarm_remove
+8726,send a tweet to kroger about spoiled milk,social_post
+91,do i need to pick up the kids from anything today,calendar_query
+3194,yeap you have done answer exactly.,general_affirm
+4802,start vacuuming,iot_cleaning
+6862,play this game with me,play_game
+4084,"dammit, it isn't what i asked.",general_negate
+5963,the list contain what,lists_query
+1352,tell me when it is five pm,alarm_set
+7192,start podcasts on nfl,play_podcasts
+1077,report alarm settings,alarm_query
+3897,"s2, i was not clear about that.",general_explain
+8798,what new posts are on my page,social_query
+7844,how long was bryan cranston on breaking bad,qa_factoid
+7741,what is marketing,qa_definition
+10834,what does it look like,qa_definition
+3660,can you please confirm detail.,general_confirm
+1528,cut down the volume,audio_volume_down
+1333,update alarm,alarm_set
+4769,start cleaning floors,iot_cleaning
+4945,prepare a coffee,iot_coffee
+3754,"i wouldn't really bother, olly.",general_dontcare
+7293,go back to the last episode in this podcast,play_podcasts
+10324,please will you check and confirm my last instruction.,general_confirm
+2038,please delete all my calendar events,calendar_remove
+5035,i would like the house lights to be pink,iot_hue_lightchange
+8310,what bands are playing in town this weekend,recommendation_events
+10725,play mindsweeper with me,play_game
+9483,book an uber to pick me up now,transport_taxi
+3131,lindafancy55@gmail dot com,email_sendemail
+5403,turn lights in the room off,iot_hue_lightoff
+9330,what time does the train departs lagos,transport_query
+8161,how much is amazon stock,qa_stock
+7428,let's have the radio on,play_radio
+567,please add item to list,lists_createoradd
+7714,describe the statue of liberty,qa_definition
+2843,how many emails do i have in the last fifteen minutes,email_query
+7273,skip to the next episode of this podcast,play_podcasts
+3908,can you please further elaborate what you just said.,general_explain
+10259,find john smith from alabama,email_querycontact
+912,tweet that there was an insect in the chocolate packet,social_post
+7572,what is the us dollar equivalent of one euro,qa_currency
+5778,create a new list for school supplies,lists_createoradd
+4477,i would like my to write original romantic messages for my wife,general_quirky
+10120,do i have any appointments scheduled for march twenty four two thousand and seventeen,calendar_query
+9758,what is the condition of traffic from work to home,transport_traffic
+2294,how long do i roast chicken breasts,cooking_recipe
+6530,repeat song number ten from main list,music_settings
+696,my games to play in my phones,play_game
+5944,tell me about the list,lists_query
+2001,clear my day on the twenty ninth,calendar_remove
+8982,what mexican restaurants are there nearby for takeout,takeaway_order
+2449,what is the time in india when the time in us is twelve pm,datetime_convert
+9912,sunny in oslo,weather_query
+887,where is the best place to buy party supplies in town,recommendation_locations
+8750,tweet consumer service that the goods are of low quality,social_post
+572,open google keep,lists_query
+5443,i need more light,iot_hue_lightup
+1187,can you tell me if i have any alarms set,alarm_query
+6608,give me international news,news_query
+3729,any one would be good to me.,general_dontcare
+5147,give me a new light color,iot_hue_lightchange
+6500,please check and repeat this song one time more,music_settings
+9871,whats the traffic density in,transport_traffic
+1718,volume louder please,audio_volume_up
+394,"awesome job, you did well.",general_praise
+2732,please check if there is a new email on the inbox,email_query
+2318,how do i make cookies,cooking_recipe
+5235,lower lights now,iot_hue_lightdim
+1470,set alarm for reminder,alarm_set
+4017,tell me a joke about chickens,general_joke
+8955,any low priced delicacies,takeaway_order
+7068,play thinking out loud next,play_music
+1021,book ticket for paris by train,transport_ticket
+7496,given me the exchange rates between u. s. d. and cad,qa_currency
+2651,just add a new email in my contacts from michael,email_addcontact
+8722,send a tweet to kroger about being overcharged for groceries,social_post
+774,what's the value of the euro relative to nzd,qa_currency
+8211,did the price of walmart stock go up or down,qa_stock
+6156,find list and remove apple,lists_remove
+5153,period the light should be in dim,iot_hue_lightdim
+7740,what is a banana,qa_definition
+1537,please turn down the volume,audio_volume_down
+4778,vacuum the dining room,iot_cleaning
+270,yeah that is correct.,general_affirm
+3850,please further rephrase it.,general_explain
+4417,i want to buy over ear headphones with minimum frequency response of fifteen hz and maximum frequency response twenty two thousand hz,general_quirky
+10276,compose a new email to ray,email_sendemail
+221,does contact mona has an email as well,email_querycontact
+719,please turn on my music,play_music
+7646,please describe about microwave,qa_definition
+3536,could you please check that.,general_confirm
+6831,can you pause the audio,play_audiobook
+8736,hello my item which i bought from some one has gone out of order,social_post
+46,set alarm at six thirty am,alarm_set
+7218,next podcast,play_podcasts
+4505,find me the cheapest copy of the four hour body,general_quirky
+5228,dim the living room lights,iot_hue_lightdim
+5128,change the light color to white,iot_hue_lightchange
+6802,play biography of jackie kennedy,play_audiobook
+7989,what is twelve times eight,qa_maths
+3726,doesn't really matter with me.,general_dontcare
+9393,can i get a train ticket to chicago for next saturday around noon,transport_query
+9240,do they deliver,takeaway_query
+5999,there are anything in my list,lists_query
+317,"it does not matter to me, olly.",general_dontcare
+1598,silence,audio_volume_mute
+6059,remove night night playlist,lists_remove
+9500,can i get a taxi to come to my house in an hour,transport_taxi
+7942,what movies is kevin spacey in,qa_factoid
+8085,have stocks gone up or down today for walmart,qa_stock
+836,what is twenty percent of one hundred and twenty,qa_maths
+1460,set an alarm at six am,alarm_set
+8766,post the following status to facebook,social_post
+3551,did you get that correctly?,general_confirm
+7394,turn on wfrn ninety nine point one,play_radio
+2489,change this time zone to washington,datetime_convert
+10727,launch game,play_game
+5346,turn off the bathroom lights,iot_hue_lightoff
+3266,yeap exact response to command.,general_affirm
+10798,what's the rate between the u. s. d. and ukraine's currency,qa_currency
+399,is the data prefers any problems in objects,general_quirky
+3164,send an email to bill that i'm sorry i didn't realize he was so sick,email_sendemail
+7414,hey olly play the radio,play_radio
+10317,olly please can you shut off.,general_commandstop
+10079,decrease the volume to ten percent,audio_volume_down
+6420,do you know about this lyrics,music_query
+7620,what is price of dollar,qa_currency
+4454,about reality in world,general_quirky
+9358,directions to virginia beach va,transport_query
+8158,how much does stock cost in walmart,qa_stock
+10474,start my robot vacuum cleaner,iot_cleaning
+8274,are there any interesting events around this area,recommendation_events
+6873,please play this game,play_game
+3928,can you please explain more on last sentence to me.,general_explain
+10817,define forensic,qa_definition
+9003,call china wok,takeaway_order
+5002,can you do me a favor my eyes are feeling strained on these lights can you please change it to a cooler tone,iot_hue_lightchange
+1573,mute the living room speakers,audio_volume_mute
+3385,i like you stop it.,general_commandstop
+5789,make list,lists_createoradd
+10022,is it supposed to rain tomorrow,weather_query
+2983,show me the information of friend,email_querycontact
+3268,it's amazing.,general_affirm
+9552,get me an uber please,transport_taxi
+5679,turn on when plugged in else turn off,iot_wemo_on
+9665,train ticket please,transport_ticket
+5144,want to have vibrant colours,iot_hue_lightchange
+6401,whose song is this,music_query
+4637,please would you speak one more again.,general_repeat
+9579,book me the cheapest train ticket to new york,transport_ticket
+10719,start the audiobook file for where i left off in a tale of two cities,play_audiobook
+8786,please say the following on facebook,social_post
+2036,find my next event and delete it please,calendar_remove
+7874,when was dolly parton born,qa_factoid
+9356,can you give me train times for ann arbor,transport_query
+4462,journal entry for today,general_quirky
+8234,can you tell me some fun things to do in kentucky,recommendation_events
+1564,can you place the sound on mute,audio_volume_mute
+5842,pick up dry cleaning tomorrow,lists_createoradd
+547,turn on the plug,iot_wemo_on
+2826,did i get an email from jen last night,email_query
+5828,my new health check up new list,lists_createoradd
+8,check whether i have set any alarms for tomorrow morning,alarm_query
+11004,ask peking garden when my food will arrive,takeaway_query
+6227,nice music,music_likeness
+2333,how much meat should i buy to serve ten people,cooking_recipe
+9993,what was the weather for the week,weather_query
+9953,what's the weather in toronto today,weather_query
+1582,set mute mode for one hour,audio_volume_mute
+1979,hi olly please cancel all the programs for friday,calendar_remove
+10739,i want to play rock paper scissors let's play,play_game
+9123,when my takeaway order will arrive,takeaway_query
+6525,stop after current song,music_settings
+4533,today some things happened,general_quirky
+7269,play the serial podcast,play_podcasts
+4918,brew me some coffee,iot_coffee
+9907,weather forecast please,weather_query
+3974,would you again rephrase me on your words please.,general_explain
+2904,does bob live in france,email_querycontact
+5413,turn on the lights that are outdoors,iot_hue_lighton
+8364,what's interesting around here,recommendation_events
+9000,give me options for indian carryout under dollars,takeaway_order
+135,see if john is available for a meeting on monday,calendar_set
+8899,what did happen today,social_query
+6531,olly shuffle playlist,music_settings
+5540,turn the lights higher,iot_hue_lightup
+3867,i don't understand what you just said now.,general_explain
+5996,what is on this list,lists_query
+4792,have my iroomba clean the house,iot_cleaning
+365,"wait, i think that's not the right answer.",general_negate
+1790,can you speak louder,audio_volume_up
+8166,what is the value of the yen right now,qa_stock
+3678,"anything is fine to me, olly.",general_dontcare
+6173,save this song in my great songs category,music_likeness
+2698,locate the email to giant eagle and put it into my contact list,email_addcontact
+7933,why did bob dylan earn a nobel peace prize,qa_factoid
+8482,find local shops,recommendation_locations
+1924,what time do i work tomorrow,calendar_query
+4818,start the vacuum at nine am,iot_cleaning
+3139,send an email to my boss about my leave,email_sendemail
+4887,i need one cup of coffee,iot_coffee
+6555,how is president's trump office proceeding,news_query
+6108,delete mike stein from contacts list,lists_remove
+1697,set the volume higher,audio_volume_up
+6417,tell me the song that is currently playing,music_query
+3210,yeap that's right.,general_affirm
+8027,what is the remainder when five hundred and twenty one is divided by three,qa_maths
+5526,connect to lights,iot_hue_lightup
+5370,turn off lights in all bathrooms,iot_hue_lightoff
+8073,figure out what percentage thirty is of one hundred and sixty three,qa_maths
+5961,read that list back to me please,lists_query
+9454,get city cab here to airport,transport_taxi
+7209,play the seventh episode of the morning after,play_podcasts
+56,quiet please,audio_volume_mute
+1296,disable the first alarm,alarm_remove
+8577,fast and the furious,recommendation_movies
+1226,how many alarms have i set,alarm_query
+8163,what is the daily price of johnson and johnson stock,qa_stock
+9298,when is the next train to glasgow from aberdeen,transport_query
+8668,i would like to make a post on times twitter,social_post
+4891,make coffee,iot_coffee
+7880,how many kilograms is two hundred and ten pounds,qa_factoid
+10489,can you set my coffee machine to make me coffee at seven am,iot_coffee
+4573,tell me what you just said once again please.,general_repeat
+8581,whats a new sci fi movie,recommendation_movies
+4418,find me a good wine shop that stock old wines like older than ten years navigate me to that shop,general_quirky
+982,navigation search,transport_query
+8540,which restaurant is there in shivaji nagar,recommendation_locations
+3648,will you check and confirm that please.,general_confirm
+3843,"s2, i was not clear about it.",general_explain
+654,add newscast time to daily schedule,news_query
+7249,play my favourite podcast,play_podcasts
+3396,olly could you shut up please.,general_commandstop
+1052,how long will it take me to get to park avenue considering current traffic,transport_traffic
+668,find me info on cars,news_query
+10354,i don't really care.,general_dontcare
+2113,i have a meeting at noon today,calendar_set
+3341,yeap correcly.,general_affirm
+3488,"that is all, just stop.",general_commandstop
+2306,do we add rosemary in pasta,cooking_recipe
+575,did i put toothpaste on my pick up list,lists_query
+4102,"oops, i think this was not the right response.",general_negate
+10662,what is the title and artist of this song,music_query
+6645,celeb news,news_query
+4363,thank you very much for your answers.,general_praise
+5970,is there anything left on my list,lists_query
+9649,book a rajdhani train ticket from mumbai to ahmedabad,transport_ticket
+8036,one plus two equal,qa_maths
+8187,what is the stock price of hdfc,qa_stock
+7350,open pandora app,play_radio
+2110,reminder about meeting from eight am to twelve pm,calendar_set
+8774,post a complaint via twitter to cvs pharmacy,social_post
+10002,do i need a light or heavy jacket today,weather_query
+3610,check last thing i said.,general_confirm
+6021,remove my grocery list,lists_remove
+6375,what music do i usually like after work,music_query
+5438,please turn on my balcony lights,iot_hue_lighton
+5860,what are all my lists,lists_query
+6205,save this channel on pandora please,music_likeness
+2773,show unread new emails,email_query
+7031,play jack johnson playlist music,play_music
+9156,most rated delivery options for chinese food,takeaway_query
+9593,find me the cheapest train ticket to spain,transport_ticket
+7878,how many songs did michael jackson write,qa_factoid
+7092,initiate the music on the electronic playlist,play_music
+1970,please clear out my calendar completely,calendar_remove
+2778,can you tell me my recent emails,email_query
+9515,please book a taxi for me to go to the railway station,transport_taxi
+1484,add alarm,alarm_set
+4572,please let's start over.,general_repeat
+10368,what you have said was not so clear to me.,general_explain
+6320,what is the name of the artist that created this song,music_query
+5347,please shut off the kitchen lights,iot_hue_lightoff
+2848,update on email,email_query
+7802,what is the age of britney spears,qa_factoid
